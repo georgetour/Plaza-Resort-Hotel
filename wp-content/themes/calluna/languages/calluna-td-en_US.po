@@ -1,0 +1,3169 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Calluna\n"
+"POT-Creation-Date: 2015-09-20 14:38+0100\n"
+"PO-Revision-Date: 2015-09-20 14:39+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:13
+msgid "Page not found (404)"
+msgstr "Page not found (404)"
+
+#: 404.php:34
+msgid "Search "
+msgstr "Search "
+
+#: archive.php:26
+#, php-format
+msgid "Day: %s"
+msgstr "Day: %s"
+
+#: archive.php:29
+#, php-format
+msgid "Month: %s"
+msgstr "Month: %s"
+
+#: archive.php:29
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:32
+#, php-format
+msgid "Year: %s"
+msgstr "Year: %s"
+
+#: archive.php:32
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:35
+msgid "Asides"
+msgstr "Asides"
+
+#: archive.php:38
+msgid "Galleries"
+msgstr "Galleries"
+
+#: archive.php:41
+msgid "Images"
+msgstr "Images"
+
+#: archive.php:44
+msgid "Videos"
+msgstr "Videos"
+
+#: archive.php:47
+msgid "Quotes"
+msgstr "Quotes"
+
+#: archive.php:50
+msgid "Links"
+msgstr "Links"
+
+#: archive.php:53
+msgid "Statuses"
+msgstr "Statuses"
+
+#: archive.php:56
+msgid "Audios"
+msgstr "Audios"
+
+#: archive.php:59
+msgid "Chats"
+msgstr "Chats"
+
+#: archive.php:62
+msgid "Archives"
+msgstr "Archives"
+
+#: comments.php:34 comments.php:53
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: comments.php:35 comments.php:54
+msgid "&larr; Older Comments"
+msgstr "&larr; Older Comments"
+
+#: comments.php:36 comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr "Newer Comments &rarr;"
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:71
+#, php-format
+msgid "Required fields are marked %s"
+msgstr "Required fields are marked %s"
+
+#: comments.php:74 metabox-functions.php:452
+msgid "Name"
+msgstr "Name"
+
+#: comments.php:76
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:78
+msgid "Website"
+msgstr "Website"
+
+#: comments.php:85
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "You must be <a href=\"%s\">logged in</a> to post a comment."
+
+#: comments.php:86
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+
+#: comments.php:87
+msgctxt "noun"
+msgid "Comment"
+msgstr "Comment"
+
+#: comments.php:91
+msgid "Your email address will not be published."
+msgstr "Your email address will not be published."
+
+#: content-gallery.php:66 content-single.php:44 content-video.php:44
+#: content.php:45
+msgid "Leave a comment"
+msgstr "Leave a comment"
+
+#: content-gallery.php:66 content-single.php:44 content-video.php:44
+#: content.php:45
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: content-gallery.php:66 content-single.php:44 content-video.php:44
+#: content.php:45
+msgid "% Comments"
+msgstr "% Comments"
+
+#: content-gallery.php:87 content-link.php:22 content-quote.php:22
+#: content-single.php:61 content-video.php:65 content.php:63
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-gallery.php:90 content-link.php:26 content-quote.php:26
+#: content-single.php:64 content-video.php:68 content.php:66
+msgid "Pages:"
+msgstr "Pages:"
+
+#: content-gallery.php:112 content-single.php:86 content-video.php:90
+msgid "Share Post"
+msgstr "Share Post"
+
+#: content-gallery.php:117 content-single.php:91 content-video.php:95
+msgid "Share on Facebook"
+msgstr "Share on Facebook"
+
+#: content-gallery.php:122 content-single.php:96 content-video.php:100
+msgid "Share on Twitter"
+msgstr "Share on Twitter"
+
+#: content-gallery.php:127 content-single.php:101 content-video.php:105
+msgid "Share on Pinterest"
+msgstr "Share on Pinterest"
+
+#: content-gallery.php:132 content-single.php:106 content-video.php:110
+msgid "Share on Google+"
+msgstr "Share on Google+"
+
+#: content-gallery.php:149 content-single.php:122 content-video.php:127
+msgid "Author"
+msgstr "Author"
+
+#: content-gallery.php:208 content-link.php:37 content-quote.php:37
+#: content-single.php:182 content-video.php:186 content.php:83
+msgid "Edit"
+msgstr "Edit"
+
+#: content-none.php:16
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+
+#: content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+
+#: content-single-event.php:37 content-single-offer.php:21
+msgid "Details"
+msgstr "Details"
+
+#: content-single-event.php:38 content-single-offer.php:22
+msgid "What's included"
+msgstr "What's included"
+
+#: content-single-event.php:56 content-single-offer.php:66
+#: content-single-room.php:63 metabox-functions.php:164
+msgid "Gallery"
+msgstr "Gallery"
+
+#: content-single-event.php:107
+msgid "More Events Title"
+msgstr "More Events Title"
+
+#: content-single-event.php:109
+msgid "More Events Text"
+msgstr "More Events Text"
+
+#: content-single-offer.php:117
+msgid "More Offers Title"
+msgstr "More Offers Title"
+
+#: content-single-offer.php:119
+msgid "More Offers Text"
+msgstr "More Offers Text"
+
+#: content-single-room.php:28 metabox-functions.php:422
+msgid "Amenities"
+msgstr "Amenities"
+
+#: front-page.php:43
+msgid "Book your trip!"
+msgstr "Book your trip!"
+
+#: functions.php:40 inc/customizer/typography.php:72
+#: inc/google-font-picker/fontpicker_main.php:59
+msgid "Main Menu"
+msgstr "Main Menu"
+
+#: functions.php:41 inc/customizer/typography.php:80
+#: inc/google-font-picker/fontpicker_main.php:61
+msgid "Mobile Menu"
+msgstr "Mobile Menu"
+
+#: functions.php:66
+msgid "Blog sidebar"
+msgstr "Blog sidebar"
+
+#: functions.php:68
+msgid "Add widgets here to appear in the blog sidebar."
+msgstr "Add widgets here to appear in the blog sidebar."
+
+#: functions.php:75
+msgid "Page sidebar"
+msgstr "Page sidebar"
+
+#: functions.php:77
+msgid "Add widgets here to appear in the page sidebar."
+msgstr "Add widgets here to appear in the page sidebar."
+
+#: functions.php:84
+msgid "Footer Logo"
+msgstr "Footer Logo"
+
+#: functions.php:86
+msgid "Add the footer logo here."
+msgstr "Add the footer logo here."
+
+#: functions.php:93
+msgid "Footer Content One"
+msgstr "Footer Content One"
+
+#: functions.php:95 functions.php:104
+msgid "Add content for the footer."
+msgstr "Add content for the footer."
+
+#: functions.php:102
+msgid "Footer Content Two"
+msgstr "Footer Content Two"
+
+#: functions.php:111
+msgid "Footer Content Three"
+msgstr "Footer Content Three"
+
+#: functions.php:113
+msgid "Add content for the footer"
+msgstr "Add content for the footer"
+
+#: inc/calluna-ajax.php:10 sidebar-reservation.php:24
+msgid "starting from "
+msgstr "starting from "
+
+#: inc/cmb2/example-functions.php:82
+msgid "Test Metabox"
+msgstr "Test Metabox"
+
+#: inc/cmb2/example-functions.php:93 inc/cmb2/example-functions.php:380
+msgid "Test Text"
+msgstr "Test Text"
+
+#: inc/cmb2/example-functions.php:94 inc/cmb2/example-functions.php:106
+#: inc/cmb2/example-functions.php:114 inc/cmb2/example-functions.php:122
+#: inc/cmb2/example-functions.php:131 inc/cmb2/example-functions.php:139
+#: inc/cmb2/example-functions.php:153 inc/cmb2/example-functions.php:160
+#: inc/cmb2/example-functions.php:168 inc/cmb2/example-functions.php:185
+#: inc/cmb2/example-functions.php:194 inc/cmb2/example-functions.php:202
+#: inc/cmb2/example-functions.php:209 inc/cmb2/example-functions.php:216
+#: inc/cmb2/example-functions.php:230 inc/cmb2/example-functions.php:243
+#: inc/cmb2/example-functions.php:256 inc/cmb2/example-functions.php:268
+#: inc/cmb2/example-functions.php:277 inc/cmb2/example-functions.php:285
+#: inc/cmb2/example-functions.php:294 inc/cmb2/example-functions.php:301
+#: inc/cmb2/example-functions.php:315 inc/cmb2/example-functions.php:381
+#: inc/cmb2/example-functions.php:475 inc/cmb2/example-functions.php:483
+#: inc/cmb2/example-functions.php:490 inc/cmb2/example-functions.php:497
+#: inc/cmb2/example-functions.php:504 inc/cmb2/example-functions.php:511
+#: inc/cmb2/example-functions.php:518 inc/cmb2/example-functions.php:556
+msgid "field description (optional)"
+msgstr "field description (optional)"
+
+#: inc/cmb2/example-functions.php:105
+msgid "Test Text Small"
+msgstr "Test Text Small"
+
+#: inc/cmb2/example-functions.php:113
+msgid "Test Text Medium"
+msgstr "Test Text Medium"
+
+#: inc/cmb2/example-functions.php:121
+msgid "Website URL"
+msgstr "Website URL"
+
+#: inc/cmb2/example-functions.php:130
+msgid "Test Text Email"
+msgstr "Test Text Email"
+
+#: inc/cmb2/example-functions.php:138
+msgid "Test Time"
+msgstr "Test Time"
+
+#: inc/cmb2/example-functions.php:145 inc/cmb2/example-functions.php:146
+msgid "Time zone"
+msgstr "Time zone"
+
+#: inc/cmb2/example-functions.php:152
+msgid "Test Date Picker"
+msgstr "Test Date Picker"
+
+#: inc/cmb2/example-functions.php:159
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr "Test Date Picker (UNIX timestamp)"
+
+#: inc/cmb2/example-functions.php:167
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr "Test Date/Time Picker Combo (UNIX timestamp)"
+
+#: inc/cmb2/example-functions.php:184
+msgid "Test Money"
+msgstr "Test Money"
+
+#: inc/cmb2/example-functions.php:193
+msgid "Test Color Picker"
+msgstr "Test Color Picker"
+
+#: inc/cmb2/example-functions.php:201
+msgid "Test Text Area"
+msgstr "Test Text Area"
+
+#: inc/cmb2/example-functions.php:208
+msgid "Test Text Area Small"
+msgstr "Test Text Area Small"
+
+#: inc/cmb2/example-functions.php:215
+msgid "Test Text Area for Code"
+msgstr "Test Text Area for Code"
+
+#: inc/cmb2/example-functions.php:222
+msgid "Test Title Weeeee"
+msgstr "Test Title Weeeee"
+
+#: inc/cmb2/example-functions.php:223
+msgid "This is a title description"
+msgstr "This is a title description"
+
+#: inc/cmb2/example-functions.php:229
+msgid "Test Select"
+msgstr "Test Select"
+
+#: inc/cmb2/example-functions.php:235 inc/cmb2/example-functions.php:248
+#: inc/cmb2/example-functions.php:260
+msgid "Option One"
+msgstr "Option One"
+
+#: inc/cmb2/example-functions.php:236 inc/cmb2/example-functions.php:249
+#: inc/cmb2/example-functions.php:261
+msgid "Option Two"
+msgstr "Option Two"
+
+#: inc/cmb2/example-functions.php:237 inc/cmb2/example-functions.php:250
+#: inc/cmb2/example-functions.php:262
+msgid "Option Three"
+msgstr "Option Three"
+
+#: inc/cmb2/example-functions.php:242
+msgid "Test Radio inline"
+msgstr "Test Radio inline"
+
+#: inc/cmb2/example-functions.php:255
+msgid "Test Radio"
+msgstr "Test Radio"
+
+#: inc/cmb2/example-functions.php:267
+msgid "Test Taxonomy Radio"
+msgstr "Test Taxonomy Radio"
+
+#: inc/cmb2/example-functions.php:276
+msgid "Test Taxonomy Select"
+msgstr "Test Taxonomy Select"
+
+#: inc/cmb2/example-functions.php:284
+msgid "Test Taxonomy Multi Checkbox"
+msgstr "Test Taxonomy Multi Checkbox"
+
+#: inc/cmb2/example-functions.php:293
+msgid "Test Checkbox"
+msgstr "Test Checkbox"
+
+#: inc/cmb2/example-functions.php:300
+msgid "Test Multi Checkbox"
+msgstr "Test Multi Checkbox"
+
+#: inc/cmb2/example-functions.php:306
+msgid "Check One"
+msgstr "Check One"
+
+#: inc/cmb2/example-functions.php:307
+msgid "Check Two"
+msgstr "Check Two"
+
+#: inc/cmb2/example-functions.php:308
+msgid "Check Three"
+msgstr "Check Three"
+
+#: inc/cmb2/example-functions.php:314
+msgid "Test wysiwyg"
+msgstr "Test wysiwyg"
+
+#: inc/cmb2/example-functions.php:322
+msgid "Test Image"
+msgstr "Test Image"
+
+#: inc/cmb2/example-functions.php:323
+msgid "Upload an image or enter a URL."
+msgstr "Upload an image or enter a URL."
+
+#: inc/cmb2/example-functions.php:329
+msgid "Multiple Files"
+msgstr "Multiple Files"
+
+#: inc/cmb2/example-functions.php:330
+msgid "Upload or add multiple images/attachments."
+msgstr "Upload or add multiple images/attachments."
+
+#: inc/cmb2/example-functions.php:337
+msgid "oEmbed"
+msgstr "oEmbed"
+
+#: inc/cmb2/example-functions.php:338
+msgid ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at <a "
+"href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress.org/"
+"Embeds</a>."
+msgstr ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at <a "
+"href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress.org/"
+"Embeds</a>."
+
+#: inc/cmb2/example-functions.php:371
+msgid "About Page Metabox"
+msgstr "About Page Metabox"
+
+#: inc/cmb2/example-functions.php:402
+msgid "Repeating Field Group"
+msgstr "Repeating Field Group"
+
+#: inc/cmb2/example-functions.php:410 metabox-functions.php:288
+#: metabox-functions.php:360 metabox-functions.php:436
+msgid "Generates reusable form entries"
+msgstr "Generates reusable form entries"
+
+#: inc/cmb2/example-functions.php:412
+msgid "Entry {#}"
+msgstr "Entry {#}"
+
+#: inc/cmb2/example-functions.php:413 metabox-functions.php:291
+#: metabox-functions.php:363 metabox-functions.php:439
+msgid "Add Another Entry"
+msgstr "Add Another Entry"
+
+#: inc/cmb2/example-functions.php:414 metabox-functions.php:292
+#: metabox-functions.php:364 metabox-functions.php:440
+msgid "Remove Entry"
+msgstr "Remove Entry"
+
+#: inc/cmb2/example-functions.php:426
+msgid "Entry Title"
+msgstr "Entry Title"
+
+#: inc/cmb2/example-functions.php:433 inc/nav-menu/custom_walker.php:169
+#: metabox-functions.php:304 metabox-functions.php:376
+#: metabox-functions.php:459
+msgid "Description"
+msgstr "Description"
+
+#: inc/cmb2/example-functions.php:434 metabox-functions.php:460
+msgid "Write a short description for this entry"
+msgstr "Write a short description for this entry"
+
+#: inc/cmb2/example-functions.php:440
+msgid "Entry Image"
+msgstr "Entry Image"
+
+#: inc/cmb2/example-functions.php:446
+msgid "Image Caption"
+msgstr "Image Caption"
+
+#: inc/cmb2/example-functions.php:467
+msgid "User Profile Metabox"
+msgstr "User Profile Metabox"
+
+#: inc/cmb2/example-functions.php:474
+msgid "Extra Info"
+msgstr "Extra Info"
+
+#: inc/cmb2/example-functions.php:482
+msgid "Avatar"
+msgstr "Avatar"
+
+#: inc/cmb2/example-functions.php:489
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: inc/cmb2/example-functions.php:496
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: inc/cmb2/example-functions.php:503
+msgid "Google+ URL"
+msgstr "Google+ URL"
+
+#: inc/cmb2/example-functions.php:510
+msgid "Linkedin URL"
+msgstr "Linkedin URL"
+
+#: inc/cmb2/example-functions.php:517
+msgid "User Field"
+msgstr "User Field"
+
+#: inc/cmb2/example-functions.php:540
+msgid "Theme Options Metabox"
+msgstr "Theme Options Metabox"
+
+#: inc/cmb2/example-functions.php:555
+msgid "Site Background Color"
+msgstr "Site Background Color"
+
+#: inc/cmb2/includes/CMB2.php:120
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr "Metabox configuration is required to have an ID parameter"
+
+#: inc/cmb2/includes/CMB2.php:326
+msgid "Click to toggle"
+msgstr "Click to toggle"
+
+#: inc/cmb2/includes/CMB2_Ajax.php:40
+msgid "Please Try Again"
+msgstr "Please Try Again"
+
+#: inc/cmb2/includes/CMB2_Ajax.php:135
+msgid "Remove Embed"
+msgstr "Remove Embed"
+
+#: inc/cmb2/includes/CMB2_Ajax.php:139
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr "No oEmbed Results Found for %s. View more info at"
+
+#: inc/cmb2/includes/CMB2_Field.php:903
+msgid "Add Group"
+msgstr "Add Group"
+
+#: inc/cmb2/includes/CMB2_Field.php:904
+msgid "Remove Group"
+msgstr "Remove Group"
+
+#: inc/cmb2/includes/CMB2_Field.php:926 inc/cmb2/includes/CMB2_Field.php:930
+msgid "None"
+msgstr "None"
+
+#: inc/cmb2/includes/CMB2_JS.php:86 inc/cmb2/includes/CMB2_JS.php:119
+msgid "Clear"
+msgstr "Clear"
+
+#: inc/cmb2/includes/CMB2_JS.php:87 inc/customizer/controls.php:55
+#: inc/customizer/typography.php:222 inc/customizer/typography.php:248
+#: inc/customizer/typography.php:269 inc/plugins/plugin-setup.php:189
+msgid "Default"
+msgstr "Default"
+
+#: inc/cmb2/includes/CMB2_JS.php:88
+msgid "Select Color"
+msgstr "Select Color"
+
+#: inc/cmb2/includes/CMB2_JS.php:89
+msgid "Current Color"
+msgstr "Current Color"
+
+#: inc/cmb2/includes/CMB2_JS.php:109
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr "mm/dd/yy"
+
+#: inc/cmb2/includes/CMB2_JS.php:110
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+
+#: inc/cmb2/includes/CMB2_JS.php:111
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr "Su, Mo, Tu, We, Th, Fr, Sa"
+
+#: inc/cmb2/includes/CMB2_JS.php:112
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+
+#: inc/cmb2/includes/CMB2_JS.php:113
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+
+#: inc/cmb2/includes/CMB2_JS.php:114
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+
+#: inc/cmb2/includes/CMB2_JS.php:115
+msgid "Next"
+msgstr "Next"
+
+#: inc/cmb2/includes/CMB2_JS.php:116
+msgid "Prev"
+msgstr "Prev"
+
+#: inc/cmb2/includes/CMB2_JS.php:117
+msgid "Today"
+msgstr "Today"
+
+#: inc/cmb2/includes/CMB2_JS.php:118 inc/cmb2/includes/CMB2_JS.php:128
+msgid "Done"
+msgstr "Done"
+
+#: inc/cmb2/includes/CMB2_JS.php:122
+msgid "Choose Time"
+msgstr "Choose Time"
+
+#: inc/cmb2/includes/CMB2_JS.php:123
+msgid "Time"
+msgstr "Time"
+
+#: inc/cmb2/includes/CMB2_JS.php:124
+msgid "Hour"
+msgstr "Hour"
+
+#: inc/cmb2/includes/CMB2_JS.php:125
+msgid "Minute"
+msgstr "Minute"
+
+#: inc/cmb2/includes/CMB2_JS.php:126
+msgid "Second"
+msgstr "Second"
+
+#: inc/cmb2/includes/CMB2_JS.php:127
+msgid "Now"
+msgstr "Now"
+
+#: inc/cmb2/includes/CMB2_JS.php:129
+msgctxt ""
+"Valid formatting string, as per http://trentrichardson.com/examples/"
+"timepicker/"
+msgid "hh:mm TT"
+msgstr "hh:mm TT"
+
+#: inc/cmb2/includes/CMB2_JS.php:135
+msgid "Use this file"
+msgstr "Use this file"
+
+#: inc/cmb2/includes/CMB2_JS.php:136 inc/cmb2/includes/CMB2_Types.php:994
+msgid "Remove Image"
+msgstr "Remove Image"
+
+#: inc/cmb2/includes/CMB2_JS.php:137 inc/cmb2/includes/CMB2_Types.php:357
+#: inc/cmb2/includes/CMB2_Types.php:1013 inc/nav-menu/custom_walker.php:261
+msgid "Remove"
+msgstr "Remove"
+
+#: inc/cmb2/includes/CMB2_JS.php:138 inc/cmb2/includes/CMB2_Types.php:1008
+msgid "File:"
+msgstr "File:"
+
+#: inc/cmb2/includes/CMB2_JS.php:139 inc/cmb2/includes/CMB2_Types.php:1011
+msgid "Download"
+msgstr "Download"
+
+#: inc/cmb2/includes/CMB2_JS.php:140
+msgid "Select / Deselect All"
+msgstr "Select / Deselect All"
+
+#: inc/cmb2/includes/CMB2_Types.php:298
+msgid "Add Row"
+msgstr "Add Row"
+
+#: inc/cmb2/includes/CMB2_Types.php:741 inc/cmb2/includes/CMB2_Types.php:789
+msgid "No terms"
+msgstr "No terms"
+
+#: inc/cmb2/includes/CMB2_Types.php:856
+msgid "Add or Upload Files"
+msgstr "Add or Upload Files"
+
+#: inc/cmb2/includes/CMB2_Types.php:918
+msgid "Add or Upload File"
+msgstr "Add or Upload File"
+
+#: inc/cmb2/includes/helper-functions.php:249
+msgid "Save"
+msgstr "Save"
+
+#: inc/customizer/calluna-customize-common.php:1081
+msgctxt "backend"
+msgid "Logo, Small logo &amp; favicon"
+msgstr "Logo, Small logo &amp; favicon"
+
+#: inc/customizer/calluna-customize-common.php:1082
+msgctxt "backend"
+msgid "Logo, small logo &amp; favicon for the Calluna theme."
+msgstr "Logo, small logo &amp; favicon for the Calluna theme."
+
+#: inc/customizer/calluna-customize-common.php:1086
+msgctxt "backend"
+msgid "Navigation"
+msgstr "Navigation"
+
+#: inc/customizer/calluna-customize-common.php:1090
+msgctxt "backend"
+msgid "Theme Layout &amp; Colors"
+msgstr "Theme Layout &amp; Colors"
+
+#: inc/customizer/calluna-customize-common.php:1094
+msgctxt "backend"
+msgid "Column Styles"
+msgstr "Column Styles"
+
+#: inc/customizer/calluna-customize-common.php:1095
+msgctxt "backend"
+msgid "Define two different column styles"
+msgstr "Define two different column styles"
+
+#: inc/customizer/calluna-customize-common.php:1099
+msgctxt "backend"
+msgid "Header"
+msgstr "Header"
+
+#: inc/customizer/calluna-customize-common.php:1100
+msgctxt "backend"
+msgid "All layout and appearance settings for the header."
+msgstr "All layout and appearance settings for the header."
+
+#: inc/customizer/calluna-customize-common.php:1105
+msgctxt "backend"
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/customizer/calluna-customize-common.php:1106
+msgctxt "backend"
+msgid "All layout and appearance settings for the footer."
+msgstr "All layout and appearance settings for the footer."
+
+#: inc/customizer/calluna-customize-common.php:1111
+msgctxt "backend"
+msgid "General"
+msgstr "General"
+
+#: inc/customizer/calluna-customize-common.php:1112
+msgctxt "backend"
+msgid "General Theme Options"
+msgstr "General Theme Options"
+
+#: inc/customizer/calluna-customize-common.php:1117
+msgctxt "backend"
+msgid "Booking calendar"
+msgstr "Booking calendar"
+
+#: inc/customizer/calluna-customize-common.php:1122
+msgctxt "backend"
+msgid "Rooms"
+msgstr "Rooms"
+
+#: inc/customizer/calluna-customize-common.php:1127
+msgctxt "backend"
+msgid "Events"
+msgstr "Events"
+
+#: inc/customizer/calluna-customize-common.php:1132
+msgctxt "backend"
+msgid "Offers"
+msgstr "Offers"
+
+#: inc/customizer/calluna-customize-common.php:1136
+msgctxt "backend"
+msgid "Social Media"
+msgstr "Social Media"
+
+#: inc/customizer/calluna-customize-common.php:1140
+msgctxt "backend"
+msgid "Custom Code"
+msgstr "Custom Code"
+
+#: inc/customizer/calluna-customize-common.php:1145
+msgctxt "backend"
+msgid "Automatic Updates"
+msgstr "Automatic Updates"
+
+#: inc/customizer/calluna-customize-common.php:1146
+msgctxt "backend"
+msgid ""
+"If you fill out the two fields below, you will get notified when the theme "
+"update is available and you will be able to update with just one click. "
+"Please note that all the changes you will make in the code directly will be "
+"overwritten with the updates. Use the <a href=\"http://codex.wordpress.org/"
+"Child_Themes\" target=\"_blank\">Child Themes</a> to alter the code."
+msgstr ""
+"If you fill out the two fields below, you will get notified when the theme "
+"update is available and you will be able to update with just one click. "
+"Please note that all the changes you will make in the code directly will be "
+"overwritten with the updates. Use the <a href=\"http://codex.wordpress.org/"
+"Child_Themes\" target=\"_blank\">Child Themes</a> to alter the code."
+
+#: inc/customizer/calluna-customize-common.php:1161
+msgctxt "backend"
+msgid "Logo Image"
+msgstr "Logo Image"
+
+#: inc/customizer/calluna-customize-common.php:1162
+msgctxt "backend"
+msgid "Recommended height for the Logo is 165px."
+msgstr "Recommended height for the Logo is 165px."
+
+#: inc/customizer/calluna-customize-common.php:1172
+msgctxt "backend"
+msgid "Small logo Image"
+msgstr "Small logo Image"
+
+#: inc/customizer/calluna-customize-common.php:1173
+msgctxt "backend"
+msgid "Recommended height for the logo is 50px."
+msgstr "Recommended height for the logo is 50px."
+
+#: inc/customizer/calluna-customize-common.php:1184
+msgctxt "backend"
+msgid "Fav icon Image"
+msgstr "Fav icon Image"
+
+#: inc/customizer/calluna-customize-common.php:1185
+msgctxt "backend"
+msgid "Recommended dimensions are 32 x 32px."
+msgstr "Recommended dimensions are 32 x 32px."
+
+#: inc/customizer/calluna-customize-common.php:1192
+msgctxt "backend"
+msgid "Logo top padding"
+msgstr "Logo top padding"
+
+#: inc/customizer/calluna-customize-common.php:1193
+msgctxt "backend"
+msgid ""
+"With the top padding you can create space between the logo and the top "
+"navigation area."
+msgstr ""
+"With the top padding you can create space between the logo and the top "
+"navigation area."
+
+#: inc/customizer/calluna-customize-common.php:1199
+msgctxt "backend"
+msgid "Logo bottom padding"
+msgstr "Logo bottom padding"
+
+#: inc/customizer/calluna-customize-common.php:1200
+msgctxt "backend"
+msgid ""
+"With the bottom padding you can create space between the logo and the bottom "
+"navigation area."
+msgstr ""
+"With the bottom padding you can create space between the logo and the bottom "
+"navigation area."
+
+#: inc/customizer/calluna-customize-common.php:1208
+msgctxt "backend"
+msgid "Navigation style"
+msgstr "Navigation style"
+
+#: inc/customizer/calluna-customize-common.php:1209
+msgctxt "backend"
+msgid "Transparent boxed, Color boxed or Full Width"
+msgstr "Transparent boxed, Color boxed or Full Width"
+
+#: inc/customizer/calluna-customize-common.php:1212
+msgctxt "backend"
+msgid "Transparent"
+msgstr "Transparent"
+
+#: inc/customizer/calluna-customize-common.php:1213
+msgctxt "backend"
+msgid "Color"
+msgstr "Color"
+
+#: inc/customizer/calluna-customize-common.php:1214
+msgctxt "backend"
+msgid "Full Width"
+msgstr "Full Width"
+
+#: inc/customizer/calluna-customize-common.php:1220
+msgctxt "backend"
+msgid "Static or sticky"
+msgstr "Static or sticky"
+
+#: inc/customizer/calluna-customize-common.php:1223
+msgctxt "backend"
+msgid "Static"
+msgstr "Static"
+
+#: inc/customizer/calluna-customize-common.php:1224
+msgctxt "backend"
+msgid "Sticky"
+msgstr "Sticky"
+
+#: inc/customizer/calluna-customize-common.php:1232
+msgctxt "backend"
+msgid "Navigation background color"
+msgstr "Navigation background color"
+
+#: inc/customizer/calluna-customize-common.php:1241
+msgctxt "backend"
+msgid "Sticky navigation background color"
+msgstr "Sticky navigation background color"
+
+#: inc/customizer/calluna-customize-common.php:1257
+msgctxt "backend"
+msgid "Navigation link color"
+msgstr "Navigation link color"
+
+#: inc/customizer/calluna-customize-common.php:1266
+msgctxt "backend"
+msgid "Navigation link hover color"
+msgstr "Navigation link hover color"
+
+#: inc/customizer/calluna-customize-common.php:1275
+msgctxt "backend"
+msgid "Navigation active link color"
+msgstr "Navigation active link color"
+
+#: inc/customizer/calluna-customize-common.php:1284
+msgctxt "backend"
+msgid "Navigation dropdown background color"
+msgstr "Navigation dropdown background color"
+
+#: inc/customizer/calluna-customize-common.php:1293
+msgctxt "backend"
+msgid "Navigation dropdown separator color"
+msgstr "Navigation dropdown separator color"
+
+#: inc/customizer/calluna-customize-common.php:1302
+msgctxt "backend"
+msgid "Navigation dropdown link color"
+msgstr "Navigation dropdown link color"
+
+#: inc/customizer/calluna-customize-common.php:1311
+msgctxt "backend"
+msgid "Navigation dropdown link hover color"
+msgstr "Navigation dropdown link hover color"
+
+#: inc/customizer/calluna-customize-common.php:1320
+msgctxt "backend"
+msgid "Navigation dropdown active link color"
+msgstr "Navigation dropdown active link color"
+
+#: inc/customizer/calluna-customize-common.php:1329
+msgctxt "backend"
+msgid "Mobile navigation menu toggle color"
+msgstr "Mobile navigation menu toggle color"
+
+#: inc/customizer/calluna-customize-common.php:1338
+msgctxt "backend"
+msgid "Mobile navigation background color"
+msgstr "Mobile navigation background color"
+
+#: inc/customizer/calluna-customize-common.php:1347
+msgctxt "backend"
+msgid "Mobile navigation text color"
+msgstr "Mobile navigation text color"
+
+#: inc/customizer/calluna-customize-common.php:1356
+msgctxt "backend"
+msgid "Mobile navigation text hover color"
+msgstr "Mobile navigation text hover color"
+
+#: inc/customizer/calluna-customize-common.php:1365
+msgctxt "backend"
+msgid "Mobile navigation active link color"
+msgstr "Mobile navigation active link color"
+
+#: inc/customizer/calluna-customize-common.php:1375
+msgctxt "backend"
+msgid "Position of blog sidebar"
+msgstr "Position of blog sidebar"
+
+#: inc/customizer/calluna-customize-common.php:1378
+#: inc/customizer/calluna-customize-common.php:1668
+msgctxt "backend"
+msgid "Left"
+msgstr "Left"
+
+#: inc/customizer/calluna-customize-common.php:1379
+#: inc/customizer/calluna-customize-common.php:1670
+msgctxt "backend"
+msgid "Right"
+msgstr "Right"
+
+#: inc/customizer/calluna-customize-common.php:1388
+msgctxt "backend"
+msgid "Primary color"
+msgstr "Primary color"
+
+#: inc/customizer/calluna-customize-common.php:1397
+msgctxt "backend"
+msgid "Secondary color"
+msgstr "Secondary color"
+
+#: inc/customizer/calluna-customize-common.php:1406
+msgctxt "backend"
+msgid "Accent color"
+msgstr "Accent color"
+
+#: inc/customizer/calluna-customize-common.php:1415
+msgctxt "backend"
+msgid "Sidebar background color"
+msgstr "Sidebar background color"
+
+#: inc/customizer/calluna-customize-common.php:1424
+msgctxt "backend"
+msgid "H2 color"
+msgstr "H2 color"
+
+#: inc/customizer/calluna-customize-common.php:1433
+msgctxt "backend"
+msgid "H3 color"
+msgstr "H3 color"
+
+#: inc/customizer/calluna-customize-common.php:1442
+#: inc/customizer/calluna-customize-common.php:1765
+msgctxt "backend"
+msgid "Text color"
+msgstr "Text color"
+
+#: inc/customizer/calluna-customize-common.php:1451
+#: inc/customizer/calluna-customize-common.php:1775
+msgctxt "backend"
+msgid "Link color"
+msgstr "Link color"
+
+#: inc/customizer/calluna-customize-common.php:1458
+msgctxt "backend"
+msgid "Button style"
+msgstr "Button style"
+
+#: inc/customizer/calluna-customize-common.php:1461
+msgctxt "backend"
+msgid "Style 1"
+msgstr "Style 1"
+
+#: inc/customizer/calluna-customize-common.php:1462
+msgctxt "backend"
+msgid "Style 2"
+msgstr "Style 2"
+
+#: inc/customizer/calluna-customize-common.php:1470
+msgctxt "backend"
+msgid "Primary button color"
+msgstr "Primary button color"
+
+#: inc/customizer/calluna-customize-common.php:1479
+msgctxt "backend"
+msgid "Primary button text color"
+msgstr "Primary button text color"
+
+#: inc/customizer/calluna-customize-common.php:1480
+msgctxt "backend"
+msgid "Only for style two"
+msgstr "Only for style two"
+
+#: inc/customizer/calluna-customize-common.php:1489
+msgctxt "backend"
+msgid "Primary button hover color"
+msgstr "Primary button hover color"
+
+#: inc/customizer/calluna-customize-common.php:1498
+msgctxt "backend"
+msgid "Primary button text hover color"
+msgstr "Primary button text hover color"
+
+#: inc/customizer/calluna-customize-common.php:1505
+msgctxt "backend"
+msgid "Show booking teaser on front page"
+msgstr "Show booking teaser on front page"
+
+#: inc/customizer/calluna-customize-common.php:1508
+#: inc/customizer/calluna-customize-common.php:1816
+#: inc/customizer/calluna-customize-common.php:1880
+#: inc/customizer/calluna-customize-common.php:2010
+#: inc/customizer/calluna-customize-common.php:2062
+#: inc/customizer/calluna-customize-common.php:2106
+#: inc/customizer/calluna-customize-common.php:2184
+msgctxt "backend"
+msgid "Yes"
+msgstr "Yes"
+
+#: inc/customizer/calluna-customize-common.php:1509
+#: inc/customizer/calluna-customize-common.php:1817
+#: inc/customizer/calluna-customize-common.php:1881
+#: inc/customizer/calluna-customize-common.php:2011
+#: inc/customizer/calluna-customize-common.php:2063
+#: inc/customizer/calluna-customize-common.php:2107
+#: inc/customizer/calluna-customize-common.php:2185
+msgctxt "backend"
+msgid "No"
+msgstr "No"
+
+#: inc/customizer/calluna-customize-common.php:1515
+msgctxt "backend"
+msgid "Booking teaser text"
+msgstr "Booking teaser text"
+
+#: inc/customizer/calluna-customize-common.php:1523
+msgctxt "backend"
+msgid "Booking teaser background color"
+msgstr "Booking teaser background color"
+
+#: inc/customizer/calluna-customize-common.php:1532
+msgctxt "backend"
+msgid "Booking teaser text color"
+msgstr "Booking teaser text color"
+
+#: inc/customizer/calluna-customize-common.php:1541
+msgctxt "backend"
+msgid "Go to top background color"
+msgstr "Go to top background color"
+
+#: inc/customizer/calluna-customize-common.php:1557
+msgctxt "backend"
+msgid "Go to top hover color"
+msgstr "Go to top hover color"
+
+#: inc/customizer/calluna-customize-common.php:1574
+msgctxt "backend"
+msgid "Style One background color"
+msgstr "Style One background color"
+
+#: inc/customizer/calluna-customize-common.php:1575
+#: inc/customizer/calluna-customize-common.php:1615
+msgctxt "backend"
+msgid "Column background"
+msgstr "Column background"
+
+#: inc/customizer/calluna-customize-common.php:1584
+msgctxt "backend"
+msgid "Style One Heading color"
+msgstr "Style One Heading color"
+
+#: inc/customizer/calluna-customize-common.php:1585
+#: inc/customizer/calluna-customize-common.php:1625
+msgctxt "backend"
+msgid "Column Heading"
+msgstr "Column Heading"
+
+#: inc/customizer/calluna-customize-common.php:1594
+msgctxt "backend"
+msgid "Style One Heading underline color"
+msgstr "Style One Heading underline color"
+
+#: inc/customizer/calluna-customize-common.php:1595
+#: inc/customizer/calluna-customize-common.php:1635
+msgctxt "backend"
+msgid "Column Heading Underline"
+msgstr "Column Heading Underline"
+
+#: inc/customizer/calluna-customize-common.php:1604
+msgctxt "backend"
+msgid "Style One text color"
+msgstr "Style One text color"
+
+#: inc/customizer/calluna-customize-common.php:1605
+#: inc/customizer/calluna-customize-common.php:1645
+msgctxt "backend"
+msgid "Column text"
+msgstr "Column text"
+
+#: inc/customizer/calluna-customize-common.php:1614
+msgctxt "backend"
+msgid "Style Two background color"
+msgstr "Style Two background color"
+
+#: inc/customizer/calluna-customize-common.php:1624
+msgctxt "backend"
+msgid "Style Two Heading color"
+msgstr "Style Two Heading color"
+
+#: inc/customizer/calluna-customize-common.php:1634
+msgctxt "backend"
+msgid "Style Two Heading underline color"
+msgstr "Style Two Heading underline color"
+
+#: inc/customizer/calluna-customize-common.php:1644
+msgctxt "backend"
+msgid "Style Two text color"
+msgstr "Style Two text color"
+
+#: inc/customizer/calluna-customize-common.php:1656
+msgctxt "backend"
+msgid "Header background color"
+msgstr "Header background color"
+
+#: inc/customizer/calluna-customize-common.php:1657
+msgctxt "backend"
+msgid "for the colored header option"
+msgstr "for the colored header option"
+
+#: inc/customizer/calluna-customize-common.php:1664
+msgctxt "backend"
+msgid "Header Title Alignment"
+msgstr "Header Title Alignment"
+
+#: inc/customizer/calluna-customize-common.php:1665
+msgctxt "backend"
+msgid "Left, center or right"
+msgstr "Left, center or right"
+
+#: inc/customizer/calluna-customize-common.php:1669
+msgctxt "backend"
+msgid "Center"
+msgstr "Center"
+
+#: inc/customizer/calluna-customize-common.php:1678
+msgctxt "backend"
+msgid "Header title color"
+msgstr "Header title color"
+
+#: inc/customizer/calluna-customize-common.php:1687
+msgctxt "backend"
+msgid "Header title separator color"
+msgstr "Header title separator color"
+
+#: inc/customizer/calluna-customize-common.php:1694
+msgctxt "backend"
+msgid "Header title top padding"
+msgstr "Header title top padding"
+
+#: inc/customizer/calluna-customize-common.php:1695
+msgctxt "backend"
+msgid ""
+"With the top padding you can change the height for the image and color "
+"header option."
+msgstr ""
+"With the top padding you can change the height for the image and color "
+"header option."
+
+#: inc/customizer/calluna-customize-common.php:1701
+msgctxt "backend"
+msgid "Header title bottom padding"
+msgstr "Header title bottom padding"
+
+#: inc/customizer/calluna-customize-common.php:1702
+msgctxt "backend"
+msgid ""
+"With the bottom padding you can change the height for the image and color "
+"header option"
+msgstr ""
+"With the bottom padding you can change the height for the image and color "
+"header option"
+
+#: inc/customizer/calluna-customize-common.php:1708
+msgctxt "backend"
+msgid "Header title left padding"
+msgstr "Header title left padding"
+
+#: inc/customizer/calluna-customize-common.php:1709
+msgctxt "backend"
+msgid "Change the left padding for the header title."
+msgstr "Change the left padding for the header title."
+
+#: inc/customizer/calluna-customize-common.php:1714
+msgctxt "backend"
+msgid "Header title right padding"
+msgstr "Header title right padding"
+
+#: inc/customizer/calluna-customize-common.php:1715
+msgctxt "backend"
+msgid "Change the right padding for the header title."
+msgstr "Change the right padding for the header title."
+
+#: inc/customizer/calluna-customize-common.php:1725
+msgctxt "backend"
+msgid "Background color"
+msgstr "Background color"
+
+#: inc/customizer/calluna-customize-common.php:1735
+msgctxt "backend"
+msgid "Top border color"
+msgstr "Top border color"
+
+#: inc/customizer/calluna-customize-common.php:1745
+msgctxt "backend"
+msgid "Widget title color"
+msgstr "Widget title color"
+
+#: inc/customizer/calluna-customize-common.php:1755
+msgctxt "backend"
+msgid "Widget title separator color"
+msgstr "Widget title separator color"
+
+#: inc/customizer/calluna-customize-common.php:1785
+msgctxt "backend"
+msgid "Link hover color"
+msgstr "Link hover color"
+
+#: inc/customizer/calluna-customize-common.php:1795
+msgctxt "backend"
+msgid "Area separator color"
+msgstr "Area separator color"
+
+#: inc/customizer/calluna-customize-common.php:1804
+msgctxt "backend"
+msgid "Copyright Text"
+msgstr "Copyright Text"
+
+#: inc/customizer/calluna-customize-common.php:1805
+msgctxt "backend"
+msgid "Bottom line text. You can use HTML."
+msgstr "Bottom line text. You can use HTML."
+
+#: inc/customizer/calluna-customize-common.php:1813
+msgctxt "backend"
+msgid "Show loading animation"
+msgstr "Show loading animation"
+
+#: inc/customizer/calluna-customize-common.php:1823
+msgctxt "backend"
+msgid "Currency"
+msgstr "Currency"
+
+#: inc/customizer/calluna-customize-common.php:1824
+msgctxt "backend"
+msgid "Add your currency for the prices"
+msgstr "Add your currency for the prices"
+
+#: inc/customizer/calluna-customize-common.php:1831
+msgctxt "backend"
+msgid "Currency Position"
+msgstr "Currency Position"
+
+#: inc/customizer/calluna-customize-common.php:1832
+msgctxt "backend"
+msgid "Before or after price"
+msgstr "Before or after price"
+
+#: inc/customizer/calluna-customize-common.php:1835
+msgctxt "backend"
+msgid "Before"
+msgstr "Before"
+
+#: inc/customizer/calluna-customize-common.php:1836
+msgctxt "backend"
+msgid "After"
+msgstr "After"
+
+#: inc/customizer/calluna-customize-common.php:1845
+#: inc/customizer/calluna-customize-common.php:2088
+msgctxt "backend"
+msgid "Reservation button text"
+msgstr "Reservation button text"
+
+#: inc/customizer/calluna-customize-common.php:1846
+msgctxt "backend"
+msgid "Add the text shown on the button."
+msgstr "Add the text shown on the button."
+
+#: inc/customizer/calluna-customize-common.php:1853
+msgctxt "backend"
+msgid "Button link"
+msgstr "Button link"
+
+#: inc/customizer/calluna-customize-common.php:1854
+msgctxt "backend"
+msgid "Chose the page with the booking reservation form"
+msgstr "Chose the page with the booking reservation form"
+
+#: inc/customizer/calluna-customize-common.php:1861
+msgctxt "backend"
+msgid "Reservation header"
+msgstr "Reservation header"
+
+#: inc/customizer/calluna-customize-common.php:1862
+msgctxt "backend"
+msgid "Header for the additional reservation text"
+msgstr "Header for the additional reservation text"
+
+#: inc/customizer/calluna-customize-common.php:1869
+msgctxt "backend"
+msgid "reservation text"
+msgstr "reservation text"
+
+#: inc/customizer/calluna-customize-common.php:1870
+msgctxt "backend"
+msgid "Additonial reservation text"
+msgstr "Additonial reservation text"
+
+#: inc/customizer/calluna-customize-common.php:1877
+msgctxt "backend"
+msgid "Show picker top arrows"
+msgstr "Show picker top arrows"
+
+#: inc/customizer/calluna-customize-common.php:1890
+msgctxt "backend"
+msgid "Picker title color"
+msgstr "Picker title color"
+
+#: inc/customizer/calluna-customize-common.php:1900
+msgctxt "backend"
+msgid "Picker background color"
+msgstr "Picker background color"
+
+#: inc/customizer/calluna-customize-common.php:1910
+msgctxt "backend"
+msgid "Picker border color"
+msgstr "Picker border color"
+
+#: inc/customizer/calluna-customize-common.php:1920
+msgctxt "backend"
+msgid "Picker number color"
+msgstr "Picker number color"
+
+#: inc/customizer/calluna-customize-common.php:1930
+msgctxt "backend"
+msgid "Picker label color"
+msgstr "Picker label color"
+
+#: inc/customizer/calluna-customize-common.php:1939
+msgctxt "backend"
+msgid "Calendar number background color"
+msgstr "Calendar number background color"
+
+#: inc/customizer/calluna-customize-common.php:1948
+msgctxt "backend"
+msgid "Calendar actual date background color"
+msgstr "Calendar actual date background color"
+
+#: inc/customizer/calluna-customize-common.php:1958
+msgctxt "backend"
+msgid "Calendar actual date text color"
+msgstr "Calendar actual date text color"
+
+#: inc/customizer/calluna-customize-common.php:1968
+msgctxt "backend"
+msgid "Calendar selected date background color"
+msgstr "Calendar selected date background color"
+
+#: inc/customizer/calluna-customize-common.php:1978
+msgctxt "backend"
+msgid "Calendar selected date text color"
+msgstr "Calendar selected date text color"
+
+#: inc/customizer/calluna-customize-common.php:1988
+msgctxt "backend"
+msgid "Calendar number hover background color"
+msgstr "Calendar number hover background color"
+
+#: inc/customizer/calluna-customize-common.php:1998
+msgctxt "backend"
+msgid "Calendar number hover text color"
+msgstr "Calendar number hover text color"
+
+#: inc/customizer/calluna-customize-common.php:2006
+msgctxt "backend"
+msgid "Show related rooms"
+msgstr "Show related rooms"
+
+#: inc/customizer/calluna-customize-common.php:2007
+msgctxt "backend"
+msgid "Show other rooms on single room"
+msgstr "Show other rooms on single room"
+
+#: inc/customizer/calluna-customize-common.php:2019
+msgctxt "backend"
+msgid "Room Carousel Overlay Color"
+msgstr "Room Carousel Overlay Color"
+
+#: inc/customizer/calluna-customize-common.php:2035
+msgctxt "backend"
+msgid "Room Carousel Hover Color"
+msgstr "Room Carousel Hover Color"
+
+#: inc/customizer/calluna-customize-common.php:2049
+msgctxt "backend"
+msgid "Prefix text for room price"
+msgstr "Prefix text for room price"
+
+#: inc/customizer/calluna-customize-common.php:2050
+msgctxt "backend"
+msgid "Text shown in front of the room price."
+msgstr "Text shown in front of the room price."
+
+#: inc/customizer/calluna-customize-common.php:2058
+msgctxt "backend"
+msgid "Show related events"
+msgstr "Show related events"
+
+#: inc/customizer/calluna-customize-common.php:2059
+msgctxt "backend"
+msgid "Show other events on single event"
+msgstr "Show other events on single event"
+
+#: inc/customizer/calluna-customize-common.php:2069
+msgctxt "backend"
+msgid "Related Events Title"
+msgstr "Related Events Title"
+
+#: inc/customizer/calluna-customize-common.php:2070
+msgctxt "backend"
+msgid "Title for the related events carousel"
+msgstr "Title for the related events carousel"
+
+#: inc/customizer/calluna-customize-common.php:2079
+msgctxt "backend"
+msgid "Related Events Text"
+msgstr "Related Events Text"
+
+#: inc/customizer/calluna-customize-common.php:2080
+msgctxt "backend"
+msgid "Text for the related events carousel"
+msgstr "Text for the related events carousel"
+
+#: inc/customizer/calluna-customize-common.php:2089
+msgctxt "backend"
+msgid "Text shown on the button."
+msgstr "Text shown on the button."
+
+#: inc/customizer/calluna-customize-common.php:2095
+msgctxt "backend"
+msgid "Offer reservation link"
+msgstr "Offer reservation link"
+
+#: inc/customizer/calluna-customize-common.php:2096
+msgctxt "backend"
+msgid "Chose the page with the offer reservation form"
+msgstr "Chose the page with the offer reservation form"
+
+#: inc/customizer/calluna-customize-common.php:2102
+msgctxt "backend"
+msgid "Show related offers"
+msgstr "Show related offers"
+
+#: inc/customizer/calluna-customize-common.php:2103
+msgctxt "backend"
+msgid "Show other offers on single offer"
+msgstr "Show other offers on single offer"
+
+#: inc/customizer/calluna-customize-common.php:2113
+msgctxt "backend"
+msgid "Related Offers Title"
+msgstr "Related Offers Title"
+
+#: inc/customizer/calluna-customize-common.php:2114
+msgctxt "backend"
+msgid "Title for the related offers carousel"
+msgstr "Title for the related offers carousel"
+
+#: inc/customizer/calluna-customize-common.php:2121
+msgctxt "backend"
+msgid "Related Offers Text"
+msgstr "Related Offers Text"
+
+#: inc/customizer/calluna-customize-common.php:2122
+msgctxt "backend"
+msgid "Text for the related offers carousel"
+msgstr "Text for the related offers carousel"
+
+#: inc/customizer/calluna-customize-common.php:2128
+msgctxt "backend"
+msgid "Prefix text for offer price"
+msgstr "Prefix text for offer price"
+
+#: inc/customizer/calluna-customize-common.php:2129
+msgctxt "backend"
+msgid "Text shown in front of the offer price."
+msgstr "Text shown in front of the offer price."
+
+#: inc/customizer/calluna-customize-common.php:2137
+msgctxt "backend"
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer/calluna-customize-common.php:2138
+msgctxt "backend"
+msgid "Add your facebook profil URL"
+msgstr "Add your facebook profil URL"
+
+#: inc/customizer/calluna-customize-common.php:2145
+msgctxt "backend"
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer/calluna-customize-common.php:2146
+msgctxt "backend"
+msgid "Add your twitter profil URL"
+msgstr "Add your twitter profil URL"
+
+#: inc/customizer/calluna-customize-common.php:2152
+msgctxt "backend"
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/customizer/calluna-customize-common.php:2153
+msgctxt "backend"
+msgid "Add your google+ profil URL"
+msgstr "Add your google+ profil URL"
+
+#: inc/customizer/calluna-customize-common.php:2159
+msgctxt "backend"
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customizer/calluna-customize-common.php:2160
+msgctxt "backend"
+msgid "Add your pinterest profil URL"
+msgstr "Add your pinterest profil URL"
+
+#: inc/customizer/calluna-customize-common.php:2166
+msgctxt "backend"
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/customizer/calluna-customize-common.php:2167
+msgctxt "backend"
+msgid "Add your tumblr profil URL"
+msgstr "Add your tumblr profil URL"
+
+#: inc/customizer/calluna-customize-common.php:2173
+msgctxt "backend"
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/customizer/calluna-customize-common.php:2174
+msgctxt "backend"
+msgid "Add your LinkedIn profil URL"
+msgstr "Add your LinkedIn profil URL"
+
+#: inc/customizer/calluna-customize-common.php:2180
+msgctxt "backend"
+msgid "Enable share for posts"
+msgstr "Enable share for posts"
+
+#: inc/customizer/calluna-customize-common.php:2181
+msgctxt "backend"
+msgid "Show share options for a single post."
+msgstr "Show share options for a single post."
+
+#: inc/customizer/calluna-customize-common.php:2192
+msgctxt "backend"
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: inc/customizer/calluna-customize-common.php:2193
+msgctxt "backend"
+msgid "Add your custom css code"
+msgstr "Add your custom css code"
+
+#: inc/customizer/calluna-customize-common.php:2199
+msgctxt "backend"
+msgid "Custom JavaScript (head)"
+msgstr "Custom JavaScript (head)"
+
+#: inc/customizer/calluna-customize-common.php:2200
+#: inc/customizer/calluna-customize-common.php:2207
+msgctxt "backend"
+msgid "You have to include the &lt;script&gt;&lt;/script&gt; tags as well."
+msgstr "You have to include the &lt;script&gt;&lt;/script&gt; tags as well."
+
+#: inc/customizer/calluna-customize-common.php:2206
+msgctxt "backend"
+msgid "Custom JavaScript (footer)"
+msgstr "Custom JavaScript (footer)"
+
+#: inc/customizer/calluna-customize-common.php:2213
+msgctxt "backend"
+msgid "Your ThemeForest username"
+msgstr "Your ThemeForest username"
+
+#: inc/customizer/calluna-customize-common.php:2214
+msgctxt "backend"
+msgid "Your Envato marketplace (ThemeForest) username."
+msgstr "Your Envato marketplace (ThemeForest) username."
+
+#: inc/customizer/calluna-customize-common.php:2219
+msgctxt "backend"
+msgid "Your ThemeForest API key"
+msgstr "Your ThemeForest API key"
+
+#: inc/customizer/calluna-customize-common.php:2220
+msgctxt "backend"
+msgid ""
+"Your API key (<strong>not</strong> password). You can generate the new API "
+"key in the settings from your Themeforest account."
+msgstr ""
+"Your API key (<strong>not</strong> password). You can generate the new API "
+"key in the settings from your Themeforest account."
+
+#: inc/customizer/typography.php:40
+#: inc/google-font-picker/fontpicker_main.php:53
+msgid "Body"
+msgstr "Body"
+
+#: inc/customizer/typography.php:44
+msgid "Paragraph <p>"
+msgstr "Paragraph <p>"
+
+#: inc/customizer/typography.php:48
+msgid "Page Title"
+msgstr "Page Title"
+
+#: inc/customizer/typography.php:52
+#: inc/google-font-picker/fontpicker_main.php:55
+msgid "Heading H2"
+msgstr "Heading H2"
+
+#: inc/customizer/typography.php:57
+#: inc/google-font-picker/fontpicker_main.php:56
+msgid "Heading H3"
+msgstr "Heading H3"
+
+#: inc/customizer/typography.php:62
+#: inc/google-font-picker/fontpicker_main.php:57
+msgid "Heading H4"
+msgstr "Heading H4"
+
+#: inc/customizer/typography.php:67
+#: inc/google-font-picker/fontpicker_main.php:58
+msgid "Heading H5"
+msgstr "Heading H5"
+
+#: inc/customizer/typography.php:76
+#: inc/google-font-picker/fontpicker_main.php:60
+msgid "Main Menu: Dropdowns"
+msgstr "Main Menu: Dropdowns"
+
+#: inc/customizer/typography.php:84
+msgid "Sidebar Widget Heading"
+msgstr "Sidebar Widget Heading"
+
+#: inc/customizer/typography.php:88
+msgid "Footer Widget Heading"
+msgstr "Footer Widget Heading"
+
+#: inc/customizer/typography.php:92
+msgid "Footer Paragraph <p>"
+msgstr "Footer Paragraph <p>"
+
+#: inc/customizer/typography.php:96
+msgid "Footer Lists <ul>"
+msgstr "Footer Lists <ul>"
+
+#: inc/customizer/typography.php:100
+msgid "Blog Post Title"
+msgstr "Blog Post Title"
+
+#: inc/customizer/typography.php:104
+#: inc/google-font-picker/fontpicker_main.php:65
+msgid "Post H3"
+msgstr "Post H3"
+
+#: inc/customizer/typography.php:108
+msgid "Copyright"
+msgstr "Copyright"
+
+#: inc/customizer/typography.php:112
+#: inc/google-font-picker/fontpicker_main.php:67
+msgid "Primary Button"
+msgstr "Primary Button"
+
+#: inc/customizer/typography.php:116
+#: inc/google-font-picker/fontpicker_main.php:68
+msgid "Weather &amp; Time"
+msgstr "Weather &amp; Time"
+
+#: inc/customizer/typography.php:120
+#: inc/google-font-picker/fontpicker_main.php:69
+msgid "Booking Calendar"
+msgstr "Booking Calendar"
+
+#: inc/customizer/typography.php:124
+#: inc/google-font-picker/fontpicker_main.php:70
+msgid "Post &amp; Event Dates"
+msgstr "Post &amp; Event Dates"
+
+#: inc/customizer/typography.php:128
+#: inc/google-font-picker/fontpicker_main.php:71
+msgid "Room &amp; Offer Prices"
+msgstr "Room &amp; Offer Prices"
+
+#: inc/customizer/typography.php:132
+msgid "Load Custom Font"
+msgstr "Load Custom Font"
+
+#: inc/customizer/typography.php:149
+msgid "Typography"
+msgstr "Typography"
+
+#: inc/customizer/typography.php:197
+#: inc/google-font-picker/fontpicker_main.php:1001
+msgid "Font Family"
+msgstr "Font Family"
+
+#: inc/customizer/typography.php:201
+msgid ""
+"To prevent bugs with the customizer make sure to change the family first."
+msgstr ""
+"To prevent bugs with the customizer make sure to change the family first."
+
+#: inc/customizer/typography.php:213
+msgid "Note: Not all Fonts support every font weight style."
+msgstr "Note: Not all Fonts support every font weight style."
+
+#: inc/customizer/typography.php:216
+msgid "Font Weight"
+msgstr "Font Weight"
+
+#: inc/customizer/typography.php:223
+msgid "Book: 300"
+msgstr "Book: 300"
+
+#: inc/customizer/typography.php:224
+msgid "Normal: 400"
+msgstr "Normal: 400"
+
+#: inc/customizer/typography.php:225
+msgid "Medium: 500"
+msgstr "Medium: 500"
+
+#: inc/customizer/typography.php:226
+msgid "Semibold: 600"
+msgstr "Semibold: 600"
+
+#: inc/customizer/typography.php:227
+msgid "Bold: 700"
+msgstr "Bold: 700"
+
+#: inc/customizer/typography.php:228
+msgid "Extra Bold: 800"
+msgstr "Extra Bold: 800"
+
+#: inc/customizer/typography.php:230
+msgid "Important: Not all fonts support every font-weight."
+msgstr "Important: Not all fonts support every font-weight."
+
+#: inc/customizer/typography.php:242
+msgid "Font Style"
+msgstr "Font Style"
+
+#: inc/customizer/typography.php:249
+msgid "Normal"
+msgstr "Normal"
+
+#: inc/customizer/typography.php:250
+msgid "Italic"
+msgstr "Italic"
+
+#: inc/customizer/typography.php:263
+#: inc/google-font-picker/fontpicker_main.php:1033
+msgid "Text Transform"
+msgstr "Text Transform"
+
+#: inc/customizer/typography.php:270
+#: inc/google-font-picker/fontpicker_main.php:96
+msgid "Capitalize"
+msgstr "Capitalize"
+
+#: inc/customizer/typography.php:271
+#: inc/google-font-picker/fontpicker_main.php:97
+msgid "Lowercase"
+msgstr "Lowercase"
+
+#: inc/customizer/typography.php:272
+#: inc/google-font-picker/fontpicker_main.php:98
+msgid "Uppercase"
+msgstr "Uppercase"
+
+#: inc/customizer/typography.php:285
+#: inc/google-font-picker/fontpicker_main.php:1046
+msgid "Font Size"
+msgstr "Font Size"
+
+#: inc/customizer/typography.php:290
+msgid "Value in pixels."
+msgstr "Value in pixels."
+
+#: inc/customizer/typography.php:305
+msgid "Font Color"
+msgstr "Font Color"
+
+#: inc/customizer/typography.php:323
+msgid "Line Height"
+msgstr "Line Height"
+
+#: inc/customizer/typography.php:345
+msgid "Letter Spacing"
+msgstr "Letter Spacing"
+
+#: inc/google-font-picker/fontpicker_main.php:54
+msgid "Header Title"
+msgstr "Header Title"
+
+#: inc/google-font-picker/fontpicker_main.php:62
+msgid "Sidebar Widget Headings"
+msgstr "Sidebar Widget Headings"
+
+#: inc/google-font-picker/fontpicker_main.php:63
+msgid "Footer Widget Headings"
+msgstr "Footer Widget Headings"
+
+#: inc/google-font-picker/fontpicker_main.php:64
+msgid "Post Title"
+msgstr "Post Title"
+
+#: inc/google-font-picker/fontpicker_main.php:66
+msgid "Footer Copyright"
+msgstr "Footer Copyright"
+
+#: inc/google-font-picker/fontpicker_main.php:74
+#: inc/google-font-picker/fontpicker_main.php:95
+msgid "Theme Default"
+msgstr "Theme Default"
+
+#: inc/google-font-picker/fontpicker_main.php:75
+msgid "Ultra Light (100)"
+msgstr "Ultra Light (100)"
+
+#: inc/google-font-picker/fontpicker_main.php:76
+msgid "Ultra Light Italic"
+msgstr "Ultra Light Italic"
+
+#: inc/google-font-picker/fontpicker_main.php:77
+msgid "Light (200)"
+msgstr "Light (200)"
+
+#: inc/google-font-picker/fontpicker_main.php:78
+msgid "Light Italic"
+msgstr "Light Italic"
+
+#: inc/google-font-picker/fontpicker_main.php:79
+msgid "Book (300)"
+msgstr "Book (300)"
+
+#: inc/google-font-picker/fontpicker_main.php:80
+msgid "Book Italic"
+msgstr "Book Italic"
+
+#: inc/google-font-picker/fontpicker_main.php:81
+msgid "Regular (400)"
+msgstr "Regular (400)"
+
+#: inc/google-font-picker/fontpicker_main.php:82
+msgid "Regular Italic"
+msgstr "Regular Italic"
+
+#: inc/google-font-picker/fontpicker_main.php:83
+msgid "Medium (500)"
+msgstr "Medium (500)"
+
+#: inc/google-font-picker/fontpicker_main.php:84
+msgid "Medium Italic"
+msgstr "Medium Italic"
+
+#: inc/google-font-picker/fontpicker_main.php:85
+msgid "Semi-Bold (600)"
+msgstr "Semi-Bold (600)"
+
+#: inc/google-font-picker/fontpicker_main.php:86
+msgid "Semi-Bold Italic"
+msgstr "Semi-Bold Italic"
+
+#: inc/google-font-picker/fontpicker_main.php:87
+msgid "Bold (700)"
+msgstr "Bold (700)"
+
+#: inc/google-font-picker/fontpicker_main.php:88
+msgid "Bold Italic"
+msgstr "Bold Italic"
+
+#: inc/google-font-picker/fontpicker_main.php:89
+msgid "Extra Bold (800)"
+msgstr "Extra Bold (800)"
+
+#: inc/google-font-picker/fontpicker_main.php:90
+msgid "Extra Bold Italic"
+msgstr "Extra Bold Italic"
+
+#: inc/google-font-picker/fontpicker_main.php:91
+msgid "Ultra Bold (900)"
+msgstr "Ultra Bold (900)"
+
+#: inc/google-font-picker/fontpicker_main.php:92
+msgid "Ultra Bold Italic"
+msgstr "Ultra Bold Italic"
+
+#: inc/google-font-picker/fontpicker_main.php:944
+msgid "Fonts"
+msgstr "Fonts"
+
+#: inc/google-font-picker/fontpicker_main.php:1018
+msgid "Weight"
+msgstr "Weight"
+
+#: inc/google-font-picker/fontpicker_main.php:1050
+msgid "px, em or rem"
+msgstr "px, em or rem"
+
+#: inc/nav-menu/custom_walker.php:78
+#, php-format
+msgid "%s (Invalid)"
+msgstr "%s (Invalid)"
+
+#: inc/nav-menu/custom_walker.php:82
+#, php-format
+msgid "%s (Pending)"
+msgstr "%s (Pending)"
+
+#: inc/nav-menu/custom_walker.php:106
+msgid "Move up"
+msgstr "Move up"
+
+#: inc/nav-menu/custom_walker.php:119
+msgid "Move down"
+msgstr "Move down"
+
+#: inc/nav-menu/custom_walker.php:121 inc/nav-menu/custom_walker.php:123
+msgid "Edit Menu Item"
+msgstr "Edit Menu Item"
+
+#: inc/nav-menu/custom_walker.php:133
+msgid "URL"
+msgstr "URL"
+
+#: inc/nav-menu/custom_walker.php:141
+msgid "Navigation Label"
+msgstr "Navigation Label"
+
+#: inc/nav-menu/custom_walker.php:148
+msgid "Title Attribute"
+msgstr "Title Attribute"
+
+#: inc/nav-menu/custom_walker.php:155
+msgid "CSS Classes (optional)"
+msgstr "CSS Classes (optional)"
+
+#: inc/nav-menu/custom_walker.php:162
+msgid "Link Relationship (XFN)"
+msgstr "Link Relationship (XFN)"
+
+#: inc/nav-menu/custom_walker.php:171
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+
+#: inc/nav-menu/custom_walker.php:179
+msgid "Add Icon"
+msgstr "Add Icon"
+
+#: inc/nav-menu/custom_walker.php:186
+msgid "Background Image URL"
+msgstr "Background Image URL"
+
+#: inc/nav-menu/custom_walker.php:193
+msgid "Background Position"
+msgstr "Background Position"
+
+#: inc/nav-menu/custom_walker.php:216
+msgid "Mega Menu?"
+msgstr "Mega Menu?"
+
+#: inc/nav-menu/custom_walker.php:227
+msgid "Menu Title ?"
+msgstr "Menu Title ?"
+
+#: inc/nav-menu/custom_walker.php:233
+msgid "Number of Columns"
+msgstr "Number of Columns"
+
+#: inc/nav-menu/custom_walker.php:248
+#, php-format
+msgid "Original: %s"
+msgstr "Original: %s"
+
+#: inc/nav-menu/custom_walker.php:262
+msgid "Cancel"
+msgstr "Cancel"
+
+#: inc/plugins/class-tgm-plugin-activation.php:155
+#: inc/plugins/plugin-setup.php:110
+msgid "Install Required Plugins"
+msgstr "Install Required Plugins"
+
+#: inc/plugins/class-tgm-plugin-activation.php:156
+#: inc/plugins/plugin-setup.php:111
+msgid "Install Plugins"
+msgstr "Install Plugins"
+
+#: inc/plugins/class-tgm-plugin-activation.php:157
+#: inc/plugins/plugin-setup.php:112
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installing Plugin: %s"
+
+#: inc/plugins/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr "Something went wrong."
+
+#: inc/plugins/class-tgm-plugin-activation.php:159
+#: inc/plugins/plugin-setup.php:114
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "This theme requires the following plugin: %1$s."
+msgstr[1] "This theme requires the following plugins: %1$s."
+
+#: inc/plugins/class-tgm-plugin-activation.php:160
+#: inc/plugins/plugin-setup.php:115
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "This theme recommends the following plugin: %1$s."
+msgstr[1] "This theme recommends the following plugins: %1$s."
+
+#: inc/plugins/class-tgm-plugin-activation.php:161
+#: inc/plugins/plugin-setup.php:116
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgstr[1] ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+
+#: inc/plugins/class-tgm-plugin-activation.php:162
+#: inc/plugins/plugin-setup.php:117
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "The following required plugin is currently inactive: %1$s."
+msgstr[1] "The following required plugins are currently inactive: %1$s."
+
+#: inc/plugins/class-tgm-plugin-activation.php:163
+#: inc/plugins/plugin-setup.php:118
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "The following recommended plugin is currently inactive: %1$s."
+msgstr[1] "The following recommended plugins are currently inactive: %1$s."
+
+#: inc/plugins/class-tgm-plugin-activation.php:164
+#: inc/plugins/plugin-setup.php:119
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgstr[1] ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+
+#: inc/plugins/class-tgm-plugin-activation.php:165
+#: inc/plugins/plugin-setup.php:120
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[1] ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+
+#: inc/plugins/class-tgm-plugin-activation.php:166
+#: inc/plugins/plugin-setup.php:121
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgstr[1] ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+
+#: inc/plugins/class-tgm-plugin-activation.php:167
+#: inc/plugins/plugin-setup.php:122
+msgid "Begin installing plugin"
+msgid_plural "Begin installing pluginscalluna-td"
+msgstr[0] "Begin installing plugin"
+msgstr[1] "Begin installing pluginscalluna-td"
+
+#: inc/plugins/class-tgm-plugin-activation.php:168
+#: inc/plugins/plugin-setup.php:123
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "Activate installed plugin"
+msgstr[1] "Activate installed plugins"
+
+#: inc/plugins/class-tgm-plugin-activation.php:169
+#: inc/plugins/plugin-setup.php:124
+msgid "Return to Required Plugins Installer"
+msgstr "Return to Required Plugins Installer"
+
+#: inc/plugins/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr "Return to the dashboard"
+
+#: inc/plugins/class-tgm-plugin-activation.php:171
+#: inc/plugins/class-tgm-plugin-activation.php:1838
+#: inc/plugins/plugin-setup.php:125
+msgid "Plugin activated successfully."
+msgstr "Plugin activated successfully."
+
+#: inc/plugins/class-tgm-plugin-activation.php:172
+#: inc/plugins/class-tgm-plugin-activation.php:1536
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "The following plugin was activated successfully:"
+msgstr[1] "The following plugins were activated successfully:"
+
+#: inc/plugins/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "All plugins installed and activated successfully. %1$s"
+
+#: inc/plugins/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr "Dismiss this notice"
+
+#: inc/plugins/class-tgm-plugin-activation.php:1084
+msgid "External Link"
+msgstr "External Link"
+
+#: inc/plugins/class-tgm-plugin-activation.php:1089
+msgid "Private Repository"
+msgstr "Private Repository"
+
+#: inc/plugins/class-tgm-plugin-activation.php:1092
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged"
+
+#: inc/plugins/class-tgm-plugin-activation.php:1096
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: inc/plugins/class-tgm-plugin-activation.php:1099
+msgid "Required"
+msgstr "Required"
+
+#: inc/plugins/class-tgm-plugin-activation.php:1099
+msgid "Recommended"
+msgstr "Recommended"
+
+#: inc/plugins/class-tgm-plugin-activation.php:1102
+msgid "Not Installed"
+msgstr "Not Installed"
+
+#: inc/plugins/class-tgm-plugin-activation.php:1104
+msgid "Installed But Not Activated"
+msgstr "Installed But Not Activated"
+
+#: inc/plugins/class-tgm-plugin-activation.php:1274
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+
+#: inc/plugins/class-tgm-plugin-activation.php:1290
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/plugins/class-tgm-plugin-activation.php:1291
+msgid "Source"
+msgstr "Source"
+
+#: inc/plugins/class-tgm-plugin-activation.php:1292
+msgid "Type"
+msgstr "Type"
+
+#: inc/plugins/class-tgm-plugin-activation.php:1293
+msgid "Status"
+msgstr "Status"
+
+#: inc/plugins/class-tgm-plugin-activation.php:1311
+msgid "Install"
+msgstr "Install"
+
+#: inc/plugins/class-tgm-plugin-activation.php:1312
+msgid "Activate"
+msgstr "Activate"
+
+#: inc/plugins/class-tgm-plugin-activation.php:1821
+msgid "Install package not available."
+msgstr "Install package not available."
+
+#: inc/plugins/class-tgm-plugin-activation.php:1822
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+
+#: inc/plugins/class-tgm-plugin-activation.php:1823
+msgid "Unpacking the package&#8230;"
+msgstr "Unpacking the package&#8230;"
+
+#: inc/plugins/class-tgm-plugin-activation.php:1824
+msgid "Installing the plugin&#8230;"
+msgstr "Installing the plugin&#8230;"
+
+#: inc/plugins/class-tgm-plugin-activation.php:1825
+msgid "Plugin install failed."
+msgstr "Plugin install failed."
+
+#: inc/plugins/class-tgm-plugin-activation.php:1826
+msgid "Plugin installed successfully."
+msgstr "Plugin installed successfully."
+
+#: inc/plugins/class-tgm-plugin-activation.php:1837
+msgid "Plugin activation failed."
+msgstr "Plugin activation failed."
+
+#: inc/plugins/class-tgm-plugin-activation.php:1947
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+
+#: inc/plugins/class-tgm-plugin-activation.php:1948
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installed and activated successfully."
+
+#: inc/plugins/class-tgm-plugin-activation.php:1948
+#: inc/plugins/class-tgm-plugin-activation.php:1957
+msgid "Show Details"
+msgstr "Show Details"
+
+#: inc/plugins/class-tgm-plugin-activation.php:1948
+#: inc/plugins/class-tgm-plugin-activation.php:1957
+msgid "Hide Details"
+msgstr "Hide Details"
+
+#: inc/plugins/class-tgm-plugin-activation.php:1949
+msgid "All installations and activations have been completed."
+msgstr "All installations and activations have been completed."
+
+#: inc/plugins/class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+
+#: inc/plugins/class-tgm-plugin-activation.php:1954
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+
+#: inc/plugins/class-tgm-plugin-activation.php:1955
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "An error occurred while installing %1$s: <strong>%2$s</strong>."
+
+#: inc/plugins/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "The installation of %1$s failed."
+
+#: inc/plugins/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s installed successfully."
+
+#: inc/plugins/class-tgm-plugin-activation.php:1958
+msgid "All installations have been completed."
+msgstr "All installations have been completed."
+
+#: inc/plugins/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing Plugin %1$s (%2$d/%3$d)"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2050
+msgid "Return to the Dashboard"
+msgstr "Return to the Dashboard"
+
+#: inc/plugins/plugin-setup.php:113
+msgid "Something went wrong with the plugin API."
+msgstr "Something went wrong with the plugin API."
+
+#: inc/plugins/plugin-setup.php:126
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "All plugins installed and activated successfully. %s"
+
+#: inc/plugins/plugin-setup.php:186
+msgid "Add extra style"
+msgstr "Add extra style"
+
+#: inc/plugins/plugin-setup.php:190
+msgid "Style 1"
+msgstr "Style 1"
+
+#: inc/plugins/plugin-setup.php:191
+msgid "Style 2"
+msgstr "Style 2"
+
+#: inc/template-tags.php:26
+msgid "<i class=\"icon-left\"></i> Older posts"
+msgstr "<i class=\"icon-left\"></i> Older posts"
+
+#: inc/template-tags.php:33
+msgid "Newer posts <i class=\"icon-right\"></i>"
+msgstr "Newer posts <i class=\"icon-right\"></i>"
+
+#: inc/template-tags.php:62
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+"<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+
+#: inc/theme-update/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr "Please enter your Envato Marketplace Username."
+
+#: inc/theme-update/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr "Please enter your Envato Marketplace API Key."
+
+#: inc/theme-update/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr "The API \"set\" is a required parameter."
+
+#: inc/theme-update/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr "The Envato Marketplace \"item ID\" is a required parameter."
+
+#: inc/widgets/calluna-events-widget.php:13
+msgid "Calluna Events"
+msgstr "Calluna Events"
+
+#: inc/widgets/calluna-events-widget.php:14
+msgid "List with events"
+msgstr "List with events"
+
+#: inc/widgets/calluna-events-widget.php:61
+#: inc/widgets/calluna-offers-widget.php:53
+#: inc/widgets/calluna-rooms-widget.php:54
+#, php-format
+msgid "Permalink to %s"
+msgstr "Permalink to %s"
+
+#: inc/widgets/calluna-events-widget.php:86
+#: inc/widgets/calluna-offers-widget.php:93
+#: inc/widgets/calluna-rooms-widget.php:95
+#: inc/widgets/calluna-social-widget.php:115
+msgid "Widget Title:"
+msgstr "Widget Title:"
+
+#: inc/widgets/calluna-image-widget.php:13
+msgid "Calluna Image"
+msgstr "Calluna Image"
+
+#: inc/widgets/calluna-image-widget.php:14
+msgid "Add image to any sidebar"
+msgstr "Add image to any sidebar"
+
+#: inc/widgets/calluna-image-widget.php:102
+msgid "Image:"
+msgstr "Image:"
+
+#: inc/widgets/calluna-image-widget.php:105
+msgid "Upload"
+msgstr "Upload"
+
+#: inc/widgets/calluna-image-widget.php:106
+msgid "Border Color:"
+msgstr "Border Color:"
+
+#: inc/widgets/calluna-offers-widget.php:13
+msgid "Calluna Offers"
+msgstr "Calluna Offers"
+
+#: inc/widgets/calluna-offers-widget.php:14
+msgid "List with offers"
+msgstr "List with offers"
+
+#: inc/widgets/calluna-offers-widget.php:63
+#: inc/widgets/calluna-offers-widget.php:65
+#: inc/widgets/calluna-rooms-widget.php:64
+#: inc/widgets/calluna-rooms-widget.php:66
+#, php-format
+msgid "<span>starting from</span> %s%1s"
+msgstr "<span>starting from</span> %s%1s"
+
+#: inc/widgets/calluna-rooms-widget.php:13
+msgid "Calluna Rooms"
+msgstr "Calluna Rooms"
+
+#: inc/widgets/calluna-rooms-widget.php:14
+msgid "List with rooms"
+msgstr "List with rooms"
+
+#: inc/widgets/calluna-social-widget.php:13
+msgid "Calluna Social Links"
+msgstr "Calluna Social Links"
+
+#: inc/widgets/calluna-social-widget.php:14
+msgid "Social profile links with icons."
+msgstr "Social profile links with icons."
+
+#: inc/widgets/calluna-social-widget.php:118
+msgid "Select the social profiles you would like to display in this widget:"
+msgstr "Select the social profiles you would like to display in this widget:"
+
+#: inc/widgets/calluna-social-widget.php:122
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/widgets/calluna-social-widget.php:127
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/widgets/calluna-social-widget.php:132
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/widgets/calluna-social-widget.php:137
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/widgets/calluna-social-widget.php:142
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/widgets/calluna-social-widget.php:147
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/wordpress-one-click-demo-install/importer/parsers.php:42
+#: inc/wordpress-one-click-demo-install/importer/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr "There was an error when reading this WXR file"
+
+#: inc/wordpress-one-click-demo-install/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+
+#: inc/wordpress-one-click-demo-install/importer/parsers.php:67
+#: inc/wordpress-one-click-demo-install/importer/parsers.php:72
+#: inc/wordpress-one-click-demo-install/importer/parsers.php:262
+#: inc/wordpress-one-click-demo-install/importer/parsers.php:451
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+
+#: inc/wordpress-one-click-demo-install/importer/radium-importer.php:251
+#: inc/wordpress-one-click-demo-install/importer/radium-importer_web.php:303
+msgid "Theme options Import file could not be found. Please try again."
+msgstr "Theme options Import file could not be found. Please try again."
+
+#: inc/wordpress-one-click-demo-install/importer/radium-importer.php:266
+#: inc/wordpress-one-click-demo-install/importer/radium-importer_web.php:318
+msgid ""
+"Theme options import data could not be read. Please try a different file."
+msgstr ""
+"Theme options import data could not be read. Please try a different file."
+
+#: inc/wordpress-one-click-demo-install/importer/radium-importer.php:329
+#: inc/wordpress-one-click-demo-install/importer/radium-importer_web.php:381
+msgid "Widget Import file could not be found. Please try again."
+msgstr "Widget Import file could not be found. Please try again."
+
+#: inc/wordpress-one-click-demo-install/importer/radium-importer.php:365
+#: inc/wordpress-one-click-demo-install/importer/radium-importer_web.php:417
+msgid "Widget import data could not be read. Please try a different file."
+msgstr "Widget import data could not be read. Please try a different file."
+
+#: inc/wordpress-one-click-demo-install/importer/radium-importer.php:406
+#: inc/wordpress-one-click-demo-install/importer/radium-importer_web.php:458
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr "Sidebar does not exist in theme (using Inactive)"
+
+#: inc/wordpress-one-click-demo-install/importer/radium-importer.php:428
+#: inc/wordpress-one-click-demo-install/importer/radium-importer_web.php:480
+msgid "Site does not support widget"
+msgstr "Site does not support widget"
+
+#: inc/wordpress-one-click-demo-install/importer/radium-importer.php:451
+#: inc/wordpress-one-click-demo-install/importer/radium-importer_web.php:503
+msgid "Widget already exists"
+msgstr "Widget already exists"
+
+#: inc/wordpress-one-click-demo-install/importer/radium-importer.php:500
+#: inc/wordpress-one-click-demo-install/importer/radium-importer_web.php:552
+msgid "Imported"
+msgstr "Imported"
+
+#: inc/wordpress-one-click-demo-install/importer/radium-importer.php:503
+#: inc/wordpress-one-click-demo-install/importer/radium-importer_web.php:555
+msgid "Imported to Inactive"
+msgstr "Imported to Inactive"
+
+#: inc/wordpress-one-click-demo-install/importer/radium-importer.php:510
+#: inc/wordpress-one-click-demo-install/importer/radium-importer_web.php:562
+msgid "No Title"
+msgstr "No Title"
+
+#: inc/wordpress-one-click-demo-install/importer/radium-importer_web.php:171
+#, php-format
+msgctxt "backend"
+msgid ""
+"<div class=\"error\"><p>An error occurred! URL for <strong>%s</strong> is "
+"not defined!</p><p>Please try to manually import the demo data. Here are "
+"instructions on how to do that: <a href=\"https://www.proteusthemes.com/docs/"
+"cargopress-pt/#import-xml-file\" target=\"_blank\">Documentation: Import XML "
+"File</a></p></div>"
+msgstr ""
+"<div class=\"error\"><p>An error occurred! URL for <strong>%s</strong> is "
+"not defined!</p><p>Please try to manually import the demo data. Here are "
+"instructions on how to do that: <a href=\"https://www.proteusthemes.com/docs/"
+"cargopress-pt/#import-xml-file\" target=\"_blank\">Documentation: Import XML "
+"File</a></p></div>"
+
+#: inc/wordpress-one-click-demo-install/importer/radium-importer_web.php:180
+#, php-format
+msgctxt "backend"
+msgid ""
+"<div class=\"error\"><p>An error occurred while fetching <strong>%s</strong> "
+"from the server!</p><p>Reason: %s - %s</p><p>Please try to manually import "
+"the demo data. Here are instructions on how to do that: <a href=\"https://"
+"www.proteusthemes.com/docs/cargopress-pt/#import-xml-file\" target=\"_blank"
+"\">Documentation: Import XML File</a></p></div>"
+msgstr ""
+"<div class=\"error\"><p>An error occurred while fetching <strong>%s</strong> "
+"from the server!</p><p>Reason: %s - %s</p><p>Please try to manually import "
+"the demo data. Here are instructions on how to do that: <a href=\"https://"
+"www.proteusthemes.com/docs/cargopress-pt/#import-xml-file\" target=\"_blank"
+"\">Documentation: Import XML File</a></p></div>"
+
+#: inc/wordpress-one-click-demo-install/importer/radium-importer_web.php:202
+#, php-format
+msgctxt "backend"
+msgid ""
+"<div class=\"error\"><p>An error occurred while writing file <strong>%s</"
+"strong> to the upload directory!</p><p>Please try to manually import the "
+"demo data. Here are instructions on how to do that: <a href=\"https://www."
+"proteusthemes.com/docs/cargopress-pt/#import-xml-file\" target=\"_blank"
+"\">Documentation: Import XML File</a></p></div>"
+msgstr ""
+"<div class=\"error\"><p>An error occurred while writing file <strong>%s</"
+"strong> to the upload directory!</p><p>Please try to manually import the "
+"demo data. Here are instructions on how to do that: <a href=\"https://www."
+"proteusthemes.com/docs/cargopress-pt/#import-xml-file\" target=\"_blank"
+"\">Documentation: Import XML File</a></p></div>"
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:134
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:143
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:194
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:198
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr "Sorry, there has been an error."
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr "The file does not exist, please try again."
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr "All done."
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr "Have fun!"
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr "Remember to update the passwords and roles of imported users."
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr "Assign Authors"
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr "Import Attachments"
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr "Download and import file attachments"
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:286
+msgid "Submit"
+msgstr "Submit"
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr "Import author:"
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr "or create new user with login name:"
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr "as a new user:"
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr "assign posts to an existing user:"
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr "or assign posts to an existing user:"
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr "- Select -"
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:423
+#, php-format
+msgid "Failed to import category %s"
+msgstr "Failed to import category %s"
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:461
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr "Failed to import post tag %s"
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:505
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:631
+#, php-format
+msgid "Failed to import %s %s"
+msgstr "Failed to import %s %s"
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:527
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:548
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "%s &#8220;%s&#8221; already exists."
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:603
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr "Failed to import %s &#8220;%s&#8221;"
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:749
+msgid "Menu item skipped due to missing menu slug"
+msgstr "Menu item skipped due to missing menu slug"
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:756
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "Menu item skipped due to invalid menu slug: %s"
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:819
+msgid "Fetching attachments is not enabled"
+msgstr "Fetching attachments is not enabled"
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:832
+msgid "Invalid file type"
+msgstr "Invalid file type"
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:876
+msgid "Remote server did not respond"
+msgstr "Remote server did not respond"
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:882
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "Remote server returned error response %1$d %2$s"
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:889
+msgid "Remote file is incorrect size"
+msgstr "Remote file is incorrect size"
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:894
+msgid "Zero size file downloaded"
+msgstr "Zero size file downloaded"
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:900
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr "Remote file is too large, limit is %s"
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:998
+msgid "Import WordPress"
+msgstr "Import WordPress"
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:1005
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:1020
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+
+#: inc/wordpress-one-click-demo-install/importer/wordpress-importer.php:1021
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr "Choose a WXR (.xml) file to upload, then click Upload file and import."
+
+#: metabox-functions.php:90
+msgid "Header settings"
+msgstr "Header settings"
+
+#: metabox-functions.php:101
+msgid "Header options"
+msgstr "Header options"
+
+#: metabox-functions.php:107
+msgid "Master slider"
+msgstr "Master slider"
+
+#: metabox-functions.php:108
+msgid "Image"
+msgstr "Image"
+
+#: metabox-functions.php:109
+msgid "Color"
+msgstr "Color"
+
+#: metabox-functions.php:114
+msgid "Master slider shortcode"
+msgstr "Master slider shortcode"
+
+#: metabox-functions.php:115
+msgid "[masterslider id=\"sliderId\"]"
+msgstr "[masterslider id=\"sliderId\"]"
+
+#: metabox-functions.php:121
+msgid "Chose image"
+msgstr "Chose image"
+
+#: metabox-functions.php:122
+msgid "Header background image"
+msgstr "Header background image"
+
+#: metabox-functions.php:128
+msgid "Header text"
+msgstr "Header text"
+
+#: metabox-functions.php:129
+msgid "Add a text to show in the header"
+msgstr "Add a text to show in the header"
+
+#: metabox-functions.php:136
+msgid "Overwrite global navigation style"
+msgstr "Overwrite global navigation style"
+
+#: metabox-functions.php:137
+msgid "Change the navigation style for this page."
+msgstr "Change the navigation style for this page."
+
+#: metabox-functions.php:142
+msgid "Top transparent navigation"
+msgstr "Top transparent navigation"
+
+#: metabox-functions.php:143
+msgid "Top navigation"
+msgstr "Top navigation"
+
+#: metabox-functions.php:144
+msgid "Top full width navigation"
+msgstr "Top full width navigation"
+
+#: metabox-functions.php:174
+msgid "Gallery Images"
+msgstr "Gallery Images"
+
+#: metabox-functions.php:175
+msgid "Upload and manage gallery images"
+msgstr "Upload and manage gallery images"
+
+#: metabox-functions.php:176
+msgid "Manage gallery"
+msgstr "Manage gallery"
+
+#: metabox-functions.php:183
+msgid "Gallery Description"
+msgstr "Gallery Description"
+
+#: metabox-functions.php:184
+msgid "Only for room, event and offer."
+msgstr "Only for room, event and offer."
+
+#: metabox-functions.php:204
+msgid "Video"
+msgstr "Video"
+
+#: metabox-functions.php:220
+msgid "Video URL (extern)"
+msgstr "Video URL (extern)"
+
+#: metabox-functions.php:221
+msgid ""
+"Enter an embedded video url like youtube or vimeo. Only for the video post "
+"format."
+msgstr ""
+"Enter an embedded video url like youtube or vimeo. Only for the video post "
+"format."
+
+#: metabox-functions.php:242
+msgid "Event information"
+msgstr "Event information"
+
+#: metabox-functions.php:252
+msgid "Event Date"
+msgstr "Event Date"
+
+#: metabox-functions.php:258
+msgid "Event Time"
+msgstr "Event Time"
+
+#: metabox-functions.php:266
+msgid "Event Location"
+msgstr "Event Location"
+
+#: metabox-functions.php:276 metabox-functions.php:348
+msgid "Included Details"
+msgstr "Included Details"
+
+#: metabox-functions.php:290 metabox-functions.php:362
+msgid "Included detail {#}"
+msgstr "Included detail {#}"
+
+#: metabox-functions.php:305 metabox-functions.php:377
+msgid "Write the included detail"
+msgstr "Write the included detail"
+
+#: metabox-functions.php:326
+msgid "Offer information"
+msgstr "Offer information"
+
+#: metabox-functions.php:336 metabox-functions.php:410
+msgid "Price"
+msgstr "Price"
+
+#: metabox-functions.php:400
+msgid "Room information"
+msgstr "Room information"
+
+#: metabox-functions.php:427
+msgid "Amenities Description"
+msgstr "Amenities Description"
+
+#: metabox-functions.php:438
+msgid "Amenity {#}"
+msgstr "Amenity {#}"
+
+#: search.php:15
+msgid "Search"
+msgstr "Search"
+
+#: searchform.php:5
+msgid "Type keywords here"
+msgstr "Type keywords here"
+
+#. Theme Name of the plugin/theme
+msgid "Calluna"
+msgstr "Calluna"
+
+#. Theme URI of the plugin/theme
+msgid "http://demo.themetwins.com/calluna/"
+msgstr "http://demo.themetwins.com/calluna/"
+
+#. Description of the plugin/theme
+msgid "Calluna WordPress Theme."
+msgstr "Calluna WordPress Theme."
+
+#. Author of the plugin/theme
+msgid "Themetwins"
+msgstr "Themetwins"
+
+#. Author URI of the plugin/theme
+msgid "http://themeforest.net/user/themetwins/portfolio"
+msgstr "http://themeforest.net/user/themetwins/portfolio"

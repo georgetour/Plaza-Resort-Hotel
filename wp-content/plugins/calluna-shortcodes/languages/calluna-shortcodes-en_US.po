@@ -1,0 +1,1387 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Calluna Shortcodes\n"
+"POT-Creation-Date: 2015-12-01 16:21+0100\n"
+"PO-Revision-Date: 2016-02-12 19:37+0100\n"
+"Last-Translator: Hofer\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: calluna-shortcodes.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de_DE\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: calluna-shortcodes.php:166
+msgid ""
+"Calluna Shortcodes includes support for the Visual Composer so you can use "
+"most of the modules via drag and drop."
+msgstr ""
+
+#: calluna-shortcodes.php:166
+msgid "Visual Composer"
+msgstr ""
+
+#: calluna-shortcodes.php:166
+msgid "Learn More"
+msgstr ""
+
+#: inc/commons.php:46 visual-composer/map.php:720 visual-composer/map.php:951
+#: visual-composer/map.php:1106 visual-composer/map.php:1257
+#: visual-composer/map.php:1380 visual-composer/map.php:1724
+#: visual-composer/map.php:1783
+msgid "None"
+msgstr ""
+
+#: shortcodes/shortcodes.php:108 shortcodes/shortcodes.php:238
+msgid "ARRIVING"
+msgstr ""
+
+#: shortcodes/shortcodes.php:122 shortcodes/shortcodes.php:252
+msgid "DEPARTING"
+msgstr ""
+
+#: shortcodes/shortcodes.php:136 shortcodes/shortcodes.php:266
+msgid "GUESTS"
+msgstr ""
+
+#: shortcodes/shortcodes.php:149 shortcodes/shortcodes.php:279
+msgid "Guests"
+msgstr ""
+
+#: shortcodes/shortcodes.php:482
+msgid "No data to display."
+msgstr ""
+
+#: shortcodes/shortcodes.php:683 shortcodes/shortcodes.php:939
+msgid "Event image"
+msgstr ""
+
+#: shortcodes/shortcodes.php:953
+msgid "Price per person"
+msgstr ""
+
+#: shortcodes/shortcodes.php:1372
+msgid "Callout button"
+msgstr ""
+
+#: shortcodes/shortcodes.php:1429
+msgid "Sample Heading"
+msgstr ""
+
+#: shortcodes/shortcodes.php:1524 visual-composer/map.php:1063
+msgid "Button"
+msgstr ""
+
+#: shortcodes/shortcodes.php:1572
+msgid "Please enter a valid URL and title for your button."
+msgstr ""
+
+#: shortcodes/shortcodes.php:1868
+msgid ""
+"WPML ICL_LANGUAGE_CODE constant does not exist. If you want to translate "
+"something please first install the WPML plugin."
+msgstr ""
+
+#: shortcodes/shortcodes.php:2013
+msgid "read more"
+msgstr ""
+
+#: shortcodes/shortcodes.php:2023
+msgid "Sorry the post type you have selected does not exist"
+msgstr ""
+
+#: shortcodes/shortcodes.php:2036
+msgid "Your selected taxonomy does not exist"
+msgstr ""
+
+#: shortcodes/shortcodes.php:2037
+msgid "Your selected term does not exist"
+msgstr ""
+
+#: shortcodes/shortcodes.php:2088
+#, php-format
+msgid ""
+"<span class=\"calluna-recent-posts-entry-posted-on\">posted on %1$s</span>"
+msgstr ""
+
+#: visual-composer/map.php:12
+msgid "Calluna Room Price"
+msgstr ""
+
+#: visual-composer/map.php:14 visual-composer/map.php:29
+#: visual-composer/map.php:223 visual-composer/map.php:242
+#: visual-composer/map.php:300 visual-composer/map.php:398
+#: visual-composer/map.php:430 visual-composer/map.php:487
+#: visual-composer/map.php:544 visual-composer/map.php:594
+#: visual-composer/map.php:654 visual-composer/map.php:746
+#: visual-composer/map.php:777 visual-composer/map.php:837
+#: visual-composer/map.php:863 visual-composer/map.php:974
+#: visual-composer/map.php:1049 visual-composer/map.php:1130
+#: visual-composer/map.php:1173 visual-composer/map.php:1324
+#: visual-composer/map.php:1415 visual-composer/map.php:1447
+#: visual-composer/map.php:1805
+msgid "Calluna"
+msgstr ""
+
+#: visual-composer/map.php:15
+msgid "Show the room price"
+msgstr ""
+
+#: visual-composer/map.php:27
+msgid "Calluna Offer Price"
+msgstr ""
+
+#: visual-composer/map.php:30
+msgid "Show the offer price"
+msgstr ""
+
+#: visual-composer/map.php:68
+msgid ""
+"After adding the calendar you can change the text and link for the "
+"reservation button and some additional texts with the theme customizer in "
+"the booking calendar section."
+msgstr ""
+
+#: visual-composer/map.php:177
+msgid "Type in an icon name or select one from below"
+msgstr ""
+
+#: visual-composer/map.php:199 visual-composer/map.php:641
+msgid "Date"
+msgstr ""
+
+#: visual-composer/map.php:200
+msgid "Name"
+msgstr ""
+
+#: visual-composer/map.php:201
+msgid "Modified"
+msgstr ""
+
+#: visual-composer/map.php:202 visual-composer/map.php:782
+msgid "Author"
+msgstr ""
+
+#: visual-composer/map.php:203
+msgid "Random"
+msgstr ""
+
+#: visual-composer/map.php:204
+msgid "Comment Count"
+msgstr ""
+
+#: visual-composer/map.php:208 visual-composer/map.php:1086
+#: visual-composer/map.php:1574 visual-composer/map.php:1632
+#: visual-composer/map.php:1723
+msgid "Default"
+msgstr ""
+
+#: visual-composer/map.php:209 visual-composer/map.php:993
+msgid "Small"
+msgstr ""
+
+#: visual-composer/map.php:210
+msgid "Medium"
+msgstr ""
+
+#: visual-composer/map.php:211 visual-composer/map.php:991
+msgid "Large"
+msgstr ""
+
+#: visual-composer/map.php:217
+msgid "Calluna Booking Calendar"
+msgstr ""
+
+#: visual-composer/map.php:218
+msgid "Choose dates"
+msgstr ""
+
+#: visual-composer/map.php:230
+msgid "Info"
+msgstr ""
+
+#: visual-composer/map.php:237
+msgid "Calluna Event Carousel"
+msgstr ""
+
+#: visual-composer/map.php:250
+msgid "Event Category"
+msgstr ""
+
+#: visual-composer/map.php:257 visual-composer/map.php:444
+#: visual-composer/map.php:494
+msgid "Visible Items"
+msgstr ""
+
+#: visual-composer/map.php:265 visual-composer/map.php:452
+#: visual-composer/map.php:509
+msgid "Maximum Items"
+msgstr ""
+
+#: visual-composer/map.php:273 visual-composer/map.php:460
+#: visual-composer/map.php:517
+msgid "Carousel Rotation"
+msgstr ""
+
+#: visual-composer/map.php:276 visual-composer/map.php:463
+#: visual-composer/map.php:520
+msgid "Continuous"
+msgstr ""
+
+#: visual-composer/map.php:277 visual-composer/map.php:464
+#: visual-composer/map.php:521
+msgid "Stop at end"
+msgstr ""
+
+#: visual-composer/map.php:284 visual-composer/map.php:471
+msgid "Show Featured Images?"
+msgstr ""
+
+#: visual-composer/map.php:287 visual-composer/map.php:385
+#: visual-composer/map.php:474 visual-composer/map.php:672
+#: visual-composer/map.php:818 visual-composer/map.php:872
+#: visual-composer/map.php:1003 visual-composer/map.php:1161
+#: visual-composer/map.php:1217 visual-composer/map.php:1266
+#: visual-composer/map.php:1287 visual-composer/map.php:1296
+#: visual-composer/map.php:1312
+msgid "Yes"
+msgstr ""
+
+#: visual-composer/map.php:288 visual-composer/map.php:386
+#: visual-composer/map.php:475 visual-composer/map.php:671
+#: visual-composer/map.php:817 visual-composer/map.php:871
+#: visual-composer/map.php:1002 visual-composer/map.php:1162
+#: visual-composer/map.php:1216 visual-composer/map.php:1267
+#: visual-composer/map.php:1288 visual-composer/map.php:1297
+#: visual-composer/map.php:1313 visual-composer/map.php:1543
+msgid "No"
+msgstr ""
+
+#: visual-composer/map.php:295
+msgid "Calluna Google Map"
+msgstr ""
+
+#: visual-composer/map.php:307
+msgid "Map Type"
+msgstr ""
+
+#: visual-composer/map.php:310
+msgid "Road Map"
+msgstr ""
+
+#: visual-composer/map.php:311
+msgid "Satellite"
+msgstr ""
+
+#: visual-composer/map.php:312
+msgid "Hybrid"
+msgstr ""
+
+#: visual-composer/map.php:313
+msgid "Terrain"
+msgstr ""
+
+#: visual-composer/map.php:320
+msgid "Map Style"
+msgstr ""
+
+#: visual-composer/map.php:323
+msgid "Shades of Grey"
+msgstr ""
+
+#: visual-composer/map.php:324
+msgid "Greyscale"
+msgstr ""
+
+#: visual-composer/map.php:325
+msgid "Light Gray"
+msgstr ""
+
+#: visual-composer/map.php:326
+msgid "Midnight Commander"
+msgstr ""
+
+#: visual-composer/map.php:327
+msgid "Blue water"
+msgstr ""
+
+#: visual-composer/map.php:328
+msgid "Icy Blue"
+msgstr ""
+
+#: visual-composer/map.php:329
+msgid "Bright and Bubbly"
+msgstr ""
+
+#: visual-composer/map.php:330
+msgid "Pale Dawn"
+msgstr ""
+
+#: visual-composer/map.php:331
+msgid "Paper"
+msgstr ""
+
+#: visual-composer/map.php:332
+msgid "Blue Essence"
+msgstr ""
+
+#: visual-composer/map.php:333
+msgid "Apple Maps-esque"
+msgstr ""
+
+#: visual-composer/map.php:334
+msgid "Subtle Grayscale"
+msgstr ""
+
+#: visual-composer/map.php:335
+msgid "Retro"
+msgstr ""
+
+#: visual-composer/map.php:336
+msgid "Hopper"
+msgstr ""
+
+#: visual-composer/map.php:337
+msgid "Red Hues"
+msgstr ""
+
+#: visual-composer/map.php:338
+msgid "Ultra Light with labels"
+msgstr ""
+
+#: visual-composer/map.php:339
+msgid "Unsaturated Browns"
+msgstr ""
+
+#: visual-composer/map.php:340
+msgid "Light Dream"
+msgstr ""
+
+#: visual-composer/map.php:341
+msgid "Neutral Blue"
+msgstr ""
+
+#: visual-composer/map.php:342
+msgid "MapBox"
+msgstr ""
+
+#: visual-composer/map.php:350
+msgid "Height"
+msgstr ""
+
+#: visual-composer/map.php:358 visual-composer/map.php:610
+msgid "Latitude"
+msgstr ""
+
+#: visual-composer/map.php:366 visual-composer/map.php:619
+msgid "Longitude"
+msgstr ""
+
+#: visual-composer/map.php:374
+msgid "Zoom"
+msgstr ""
+
+#: visual-composer/map.php:382
+msgid "Show Marker?"
+msgstr ""
+
+#: visual-composer/map.php:393
+msgid "Calluna Gallery"
+msgstr ""
+
+#: visual-composer/map.php:405
+msgid "Select images"
+msgstr ""
+
+#: visual-composer/map.php:413
+msgid "Image Links"
+msgstr ""
+
+#: visual-composer/map.php:416
+msgid "No Link"
+msgstr ""
+
+#: visual-composer/map.php:417
+msgid "Open Image in PrettyPhoto"
+msgstr ""
+
+#: visual-composer/map.php:418
+msgid "Link Image in new tab"
+msgstr ""
+
+#: visual-composer/map.php:425
+msgid "Calluna Offer Carousel"
+msgstr ""
+
+#: visual-composer/map.php:437
+msgid "Offer Category"
+msgstr ""
+
+#: visual-composer/map.php:482
+msgid "Calluna Room Carousel"
+msgstr ""
+
+#: visual-composer/map.php:502
+msgid "Room Category"
+msgstr ""
+
+#: visual-composer/map.php:526 visual-composer/map.php:691
+#: visual-composer/map.php:922
+msgid "Button: Style"
+msgstr ""
+
+#: visual-composer/map.php:528 visual-composer/map.php:693
+#: visual-composer/map.php:924
+msgid "Select a button style."
+msgstr ""
+
+#: visual-composer/map.php:530 visual-composer/map.php:695
+#: visual-composer/map.php:926 visual-composer/map.php:1071
+msgid "Style 1"
+msgstr ""
+
+#: visual-composer/map.php:531 visual-composer/map.php:696
+#: visual-composer/map.php:927 visual-composer/map.php:1072
+msgid "Style 2"
+msgstr ""
+
+#: visual-composer/map.php:538
+msgid "Calluna Local Time"
+msgstr ""
+
+#: visual-composer/map.php:539
+msgid "show the local time"
+msgstr ""
+
+#: visual-composer/map.php:552
+msgid "Time icon"
+msgstr ""
+
+#: visual-composer/map.php:553
+msgid "show time icon"
+msgstr ""
+
+#: visual-composer/map.php:556
+msgid "yes"
+msgstr ""
+
+#: visual-composer/map.php:557
+msgid "no"
+msgstr ""
+
+#: visual-composer/map.php:564 visual-composer/map.php:1018
+#: visual-composer/map.php:1492
+msgid "Icon Color"
+msgstr ""
+
+#: visual-composer/map.php:572 visual-composer/map.php:1420
+msgid "Text Color"
+msgstr ""
+
+#: visual-composer/map.php:580
+msgid "Time Format"
+msgstr ""
+
+#: visual-composer/map.php:588
+msgid "Calluna Weather"
+msgstr ""
+
+#: visual-composer/map.php:589
+msgid "Show the weather"
+msgstr ""
+
+#: visual-composer/map.php:601
+msgid "Location"
+msgstr ""
+
+#: visual-composer/map.php:602
+msgid "Add city"
+msgstr ""
+
+#: visual-composer/map.php:611
+msgid "Add latitude"
+msgstr ""
+
+#: visual-composer/map.php:620
+msgid "Add longitude"
+msgstr ""
+
+#: visual-composer/map.php:628
+msgid "Units"
+msgstr ""
+
+#: visual-composer/map.php:629
+msgid "Internal, metric or imperial"
+msgstr ""
+
+#: visual-composer/map.php:632
+msgid "Internal"
+msgstr ""
+
+#: visual-composer/map.php:633
+msgid "Metric"
+msgstr ""
+
+#: visual-composer/map.php:634
+msgid "Imperial"
+msgstr ""
+
+#: visual-composer/map.php:642
+msgid "Date format according to: http://php.net/manual/ro/function.date.php"
+msgstr ""
+
+#: visual-composer/map.php:651
+msgid "Calluna Callout"
+msgstr ""
+
+#: visual-composer/map.php:653
+msgid "Call to action area"
+msgstr ""
+
+#: visual-composer/map.php:660 visual-composer/map.php:663
+msgid "Callout Content"
+msgstr ""
+
+#: visual-composer/map.php:662 visual-composer/map.php:1438
+msgid "Enter your content here."
+msgstr ""
+
+#: visual-composer/map.php:667 visual-composer/map.php:813
+#: visual-composer/map.php:999
+msgid "Fade In"
+msgstr ""
+
+#: visual-composer/map.php:669 visual-composer/map.php:815
+msgid "Fade In Animation"
+msgstr ""
+
+#: visual-composer/map.php:677 visual-composer/map.php:680
+#: visual-composer/map.php:915 visual-composer/map.php:918
+msgid "Button: URL"
+msgstr ""
+
+#: visual-composer/map.php:684 visual-composer/map.php:687
+#: visual-composer/map.php:908 visual-composer/map.php:911
+msgid "Button: Text"
+msgstr ""
+
+#: visual-composer/map.php:701 visual-composer/map.php:932
+msgid "Button: Size"
+msgstr ""
+
+#: visual-composer/map.php:703 visual-composer/map.php:934
+msgid "Select a button size."
+msgstr ""
+
+#: visual-composer/map.php:708 visual-composer/map.php:939
+msgid "Button: Link Target"
+msgstr ""
+
+#: visual-composer/map.php:711 visual-composer/map.php:942
+#: visual-composer/map.php:1097 visual-composer/map.php:1772
+msgid "Self"
+msgstr ""
+
+#: visual-composer/map.php:712 visual-composer/map.php:943
+#: visual-composer/map.php:1098 visual-composer/map.php:1773
+msgid "Blank"
+msgstr ""
+
+#: visual-composer/map.php:717 visual-composer/map.php:948
+msgid "Button: Rel"
+msgstr ""
+
+#: visual-composer/map.php:721 visual-composer/map.php:952
+#: visual-composer/map.php:1107 visual-composer/map.php:1784
+msgid "Nofollow"
+msgstr ""
+
+#: visual-composer/map.php:726 visual-composer/map.php:957
+msgid "Button: Icon Left"
+msgstr ""
+
+#: visual-composer/map.php:728
+#, php-format
+msgid "Icon to the left of your button text. See all the icons at %s"
+msgstr ""
+
+#: visual-composer/map.php:733 visual-composer/map.php:963
+msgid "Button: Icon Right"
+msgstr ""
+
+#: visual-composer/map.php:735
+#, php-format
+msgid "Icon to the right of your button text. See all the icons at %s"
+msgstr ""
+
+#: visual-composer/map.php:743
+msgid "Calluna Highlight"
+msgstr ""
+
+#: visual-composer/map.php:745
+msgid "Text highlighter"
+msgstr ""
+
+#: visual-composer/map.php:751
+msgid "Color"
+msgstr ""
+
+#: visual-composer/map.php:754
+msgid "Blue"
+msgstr ""
+
+#: visual-composer/map.php:755
+msgid "Green"
+msgstr ""
+
+#: visual-composer/map.php:756
+msgid "Gray"
+msgstr ""
+
+#: visual-composer/map.php:757
+msgid "Red"
+msgstr ""
+
+#: visual-composer/map.php:758
+msgid "Yellow"
+msgstr ""
+
+#: visual-composer/map.php:764
+msgid "Highlighted Text"
+msgstr ""
+
+#: visual-composer/map.php:767
+msgid "Add the text to be highlighted."
+msgstr ""
+
+#: visual-composer/map.php:774
+msgid "Calluna Testimonial"
+msgstr ""
+
+#: visual-composer/map.php:776
+msgid "Single testimonial"
+msgstr ""
+
+#: visual-composer/map.php:785
+msgid "Testimonial Author"
+msgstr ""
+
+#: visual-composer/map.php:789
+msgid "Author Position"
+msgstr ""
+
+#: visual-composer/map.php:792
+msgid "Testimonial Author Position"
+msgstr ""
+
+#: visual-composer/map.php:798
+msgid "Author image"
+msgstr ""
+
+#: visual-composer/map.php:806
+msgid "Testimonial Content"
+msgstr ""
+
+#: visual-composer/map.php:808
+msgid "This product is amazing!"
+msgstr ""
+
+#: visual-composer/map.php:809
+msgid "This is where your testimonial goes."
+msgstr ""
+
+#: visual-composer/map.php:834
+msgid "WPML"
+msgstr ""
+
+#: visual-composer/map.php:836
+msgid "WPML translatable text."
+msgstr ""
+
+#: visual-composer/map.php:843
+msgid "Language"
+msgstr ""
+
+#: visual-composer/map.php:846
+msgid "Select a WPML language."
+msgstr ""
+
+#: visual-composer/map.php:851 visual-composer/map.php:1436
+#: visual-composer/map.php:1742 visual-composer/map.php:1745
+#: visual-composer/map.php:1751 visual-composer/map.php:1757
+#: visual-composer/map.php:1829 visual-composer/map.php:1832
+msgid "Content"
+msgstr ""
+
+#: visual-composer/map.php:860
+msgid "Calluna Pricing Table"
+msgstr ""
+
+#: visual-composer/map.php:862
+msgid "Insert a pricing column"
+msgstr ""
+
+#: visual-composer/map.php:868
+msgid "Featured Pricing"
+msgstr ""
+
+#: visual-composer/map.php:878
+msgid "Plan"
+msgstr ""
+
+#: visual-composer/map.php:884
+msgid "Cost"
+msgstr ""
+
+#: visual-composer/map.php:890
+msgid "Per (optional)"
+msgstr ""
+
+#: visual-composer/map.php:896
+msgid "Features"
+msgstr ""
+
+#: visual-composer/map.php:971
+msgid "Calluna Font Awesome Icon"
+msgstr ""
+
+#: visual-composer/map.php:973
+msgid "Font Awesome Icon"
+msgstr ""
+
+#: visual-composer/map.php:979 visual-composer/map.php:1463
+#: visual-composer/map.php:1469 visual-composer/map.php:1477
+#: visual-composer/map.php:1480 visual-composer/map.php:1487
+#: visual-composer/map.php:1495 visual-composer/map.php:1502
+#: visual-composer/map.php:1509 visual-composer/map.php:1517
+#: visual-composer/map.php:1525 visual-composer/map.php:1533
+msgid "Icon"
+msgstr ""
+
+#: visual-composer/map.php:986
+msgid "Icon Size"
+msgstr ""
+
+#: visual-composer/map.php:990
+msgid "Extra Large"
+msgstr ""
+
+#: visual-composer/map.php:992
+msgid "Normal"
+msgstr ""
+
+#: visual-composer/map.php:994
+msgid "Tiny"
+msgstr ""
+
+#: visual-composer/map.php:1008
+msgid "Float"
+msgstr ""
+
+#: visual-composer/map.php:1011 visual-composer/map.php:1390
+#: visual-composer/map.php:1429 visual-composer/map.php:1575
+msgid "Center"
+msgstr ""
+
+#: visual-composer/map.php:1012 visual-composer/map.php:1088
+#: visual-composer/map.php:1389 visual-composer/map.php:1428
+#: visual-composer/map.php:1576
+msgid "Left"
+msgstr ""
+
+#: visual-composer/map.php:1013 visual-composer/map.php:1089
+#: visual-composer/map.php:1391 visual-composer/map.php:1430
+#: visual-composer/map.php:1577
+msgid "Right"
+msgstr ""
+
+#: visual-composer/map.php:1023 visual-composer/map.php:1609
+msgid "Background Color"
+msgstr ""
+
+#: visual-composer/map.php:1028 visual-composer/map.php:1662
+msgid "Border Radius"
+msgstr ""
+
+#: visual-composer/map.php:1033 visual-composer/map.php:1055
+#: visual-composer/map.php:1763 visual-composer/map.php:1765
+#: visual-composer/map.php:1776 visual-composer/map.php:1786
+msgid "URL"
+msgstr ""
+
+#: visual-composer/map.php:1039
+msgid "URL Title"
+msgstr ""
+
+#: visual-composer/map.php:1046
+msgid "Calluna Button"
+msgstr ""
+
+#: visual-composer/map.php:1048
+msgid "Calluna Shortcode Button"
+msgstr ""
+
+#: visual-composer/map.php:1061
+msgid "Button Title"
+msgstr ""
+
+#: visual-composer/map.php:1068
+msgid "Button Style"
+msgstr ""
+
+#: visual-composer/map.php:1077
+msgid "Button Size"
+msgstr ""
+
+#: visual-composer/map.php:1083
+msgid "Align"
+msgstr ""
+
+#: visual-composer/map.php:1087
+msgid "Inline"
+msgstr ""
+
+#: visual-composer/map.php:1094
+msgid "Link Target"
+msgstr ""
+
+#: visual-composer/map.php:1103
+msgid "Link Rel"
+msgstr ""
+
+#: visual-composer/map.php:1112 visual-composer/map.php:1396
+msgid "Icon Left"
+msgstr ""
+
+#: visual-composer/map.php:1118 visual-composer/map.php:1402
+msgid "Icon Right"
+msgstr ""
+
+#: visual-composer/map.php:1127
+msgid "Calluna Skillbar"
+msgstr ""
+
+#: visual-composer/map.php:1129
+msgid "Animated percentage bar"
+msgstr ""
+
+#: visual-composer/map.php:1136 visual-composer/map.php:1330
+msgid "Title"
+msgstr ""
+
+#: visual-composer/map.php:1139
+msgid "Add your skillbar title."
+msgstr ""
+
+#: visual-composer/map.php:1144
+msgid "Percentage"
+msgstr ""
+
+#: visual-composer/map.php:1147
+msgid "Add a percentage value."
+msgstr ""
+
+#: visual-composer/map.php:1151
+msgid "Background"
+msgstr ""
+
+#: visual-composer/map.php:1154
+msgid "Choose your custom background color (Hex value)."
+msgstr ""
+
+#: visual-composer/map.php:1158
+msgid "Display % Number"
+msgstr ""
+
+#: visual-composer/map.php:1170
+msgid "Post Grid"
+msgstr ""
+
+#: visual-composer/map.php:1172
+msgid "Custom post type grid"
+msgstr ""
+
+#: visual-composer/map.php:1178
+msgid "Unique Id"
+msgstr ""
+
+#: visual-composer/map.php:1180
+msgid "You can enter a unique ID here for styling purposes."
+msgstr ""
+
+#: visual-composer/map.php:1185
+msgid "Post Type"
+msgstr ""
+
+#: visual-composer/map.php:1192
+msgid "Taxonomy"
+msgstr ""
+
+#: visual-composer/map.php:1199
+msgid "Term Slug"
+msgstr ""
+
+#: visual-composer/map.php:1201
+msgid ""
+"Enter the Term slug to get your posts from. This term must be a part of the "
+"taxonomy above. You can find your slug on your taxonomy dashboard. For "
+"regular posts that would be the Categories page."
+msgstr ""
+
+#: visual-composer/map.php:1205
+msgid "Post Count"
+msgstr ""
+
+#: visual-composer/map.php:1208
+msgid "How many items do you wish to show."
+msgstr ""
+
+#: visual-composer/map.php:1212
+msgid "Pagination"
+msgstr ""
+
+#: visual-composer/map.php:1214
+msgid "Note: Pagination will not work on your homepage."
+msgstr ""
+
+#: visual-composer/map.php:1222
+msgid "Columns"
+msgstr ""
+
+#: visual-composer/map.php:1226
+msgid "1"
+msgstr ""
+
+#: visual-composer/map.php:1227
+msgid "2"
+msgstr ""
+
+#: visual-composer/map.php:1228
+msgid "3"
+msgstr ""
+
+#: visual-composer/map.php:1229
+msgid "4"
+msgstr ""
+
+#: visual-composer/map.php:1230
+msgid "5"
+msgstr ""
+
+#: visual-composer/map.php:1231
+msgid "6"
+msgstr ""
+
+#: visual-composer/map.php:1236
+msgid "Order"
+msgstr ""
+
+#: visual-composer/map.php:1238
+#, php-format
+msgid "Designates the ascending or descending order. More at %s."
+msgstr ""
+
+#: visual-composer/map.php:1240
+msgid "DESC"
+msgstr ""
+
+#: visual-composer/map.php:1241
+msgid "ASC"
+msgstr ""
+
+#: visual-composer/map.php:1246
+msgid "Order By"
+msgstr ""
+
+#: visual-composer/map.php:1248
+#, php-format
+msgid "Select how to sort retrieved posts. More at %s."
+msgstr ""
+
+#: visual-composer/map.php:1253
+msgid "Thumbnail Link"
+msgstr ""
+
+#: visual-composer/map.php:1256
+msgid "Post"
+msgstr ""
+
+#: visual-composer/map.php:1258
+msgid "Lightbox"
+msgstr ""
+
+#: visual-composer/map.php:1263
+msgid "Thumbnail Crop"
+msgstr ""
+
+#: visual-composer/map.php:1272
+msgid "Thumbnail Width"
+msgstr ""
+
+#: visual-composer/map.php:1274
+msgid "Enter a width in pixels."
+msgstr ""
+
+#: visual-composer/map.php:1278
+msgid "Thumbnail Height"
+msgstr ""
+
+#: visual-composer/map.php:1280
+msgid ""
+"Enter a height in pixels. Set to \"9999\" to disable vertical cropping and "
+"keep image proportions."
+msgstr ""
+
+#: visual-composer/map.php:1284
+msgid "Display Title"
+msgstr ""
+
+#: visual-composer/map.php:1293
+msgid "Display Excerpt"
+msgstr ""
+
+#: visual-composer/map.php:1302
+msgid "Excerpt Length"
+msgstr ""
+
+#: visual-composer/map.php:1305
+msgid "How many words do you want to display for your excerpt?"
+msgstr ""
+
+#: visual-composer/map.php:1309
+msgid "Read More Link?"
+msgstr ""
+
+#: visual-composer/map.php:1321
+msgid "Calluna Heading"
+msgstr ""
+
+#: visual-composer/map.php:1323
+msgid "Styled heading"
+msgstr ""
+
+#: visual-composer/map.php:1336
+msgid "Type"
+msgstr ""
+
+#: visual-composer/map.php:1352
+msgid "Margin Top"
+msgstr ""
+
+#: visual-composer/map.php:1357
+msgid "Margin Bottom"
+msgstr ""
+
+#: visual-composer/map.php:1362
+msgid "Font Size"
+msgstr ""
+
+#: visual-composer/map.php:1367
+msgid "Heading Color"
+msgstr ""
+
+#: visual-composer/map.php:1372
+msgid "Span Background"
+msgstr ""
+
+#: visual-composer/map.php:1377
+msgid "Heading Style"
+msgstr ""
+
+#: visual-composer/map.php:1381
+msgid "Underline"
+msgstr ""
+
+#: visual-composer/map.php:1386 visual-composer/map.php:1425
+msgid "Text Alignment"
+msgstr ""
+
+#: visual-composer/map.php:1410
+msgid "Calluna Teaser"
+msgstr ""
+
+#: visual-composer/map.php:1439
+msgid "Teaser Content"
+msgstr ""
+
+#: visual-composer/map.php:1445
+msgid "Calluna Icon Box"
+msgstr ""
+
+#: visual-composer/map.php:1449
+msgid "Content box with icon"
+msgstr ""
+
+#: visual-composer/map.php:1453
+msgid "Extra class name"
+msgstr ""
+
+#: visual-composer/map.php:1455
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: visual-composer/map.php:1461
+msgid "Icon Image Alternative"
+msgstr ""
+
+#: visual-composer/map.php:1467
+msgid "Icon Image Alternative Width"
+msgstr ""
+
+#: visual-composer/map.php:1485
+msgid "Icon Font Alternative Classes"
+msgstr ""
+
+#: visual-composer/map.php:1500
+msgid "Icon Background"
+msgstr ""
+
+#: visual-composer/map.php:1507
+msgid "Icon Border Radius"
+msgstr ""
+
+#: visual-composer/map.php:1514
+msgid "Icon Size In Pixels"
+msgstr ""
+
+#: visual-composer/map.php:1522
+msgid "Fixed Icon Width"
+msgstr ""
+
+#: visual-composer/map.php:1530
+msgid "Fixed Icon Height"
+msgstr ""
+
+#: visual-composer/map.php:1540
+msgid "CSS Animation"
+msgstr ""
+
+#: visual-composer/map.php:1544
+msgid "Top to bottom"
+msgstr ""
+
+#: visual-composer/map.php:1545
+msgid "Bottom to top"
+msgstr ""
+
+#: visual-composer/map.php:1546
+msgid "Left to right"
+msgstr ""
+
+#: visual-composer/map.php:1547
+msgid "Right to left"
+msgstr ""
+
+#: visual-composer/map.php:1548
+msgid "Appear from center"
+msgstr ""
+
+#: visual-composer/map.php:1553
+msgid "Icon Box Style"
+msgstr ""
+
+#: visual-composer/map.php:1556
+msgid "Left Icon"
+msgstr ""
+
+#: visual-composer/map.php:1557
+msgid "Right Icon"
+msgstr ""
+
+#: visual-composer/map.php:1558
+msgid "Top Icon"
+msgstr ""
+
+#: visual-composer/map.php:1559
+msgid "Top Icon Style 2 (legacy)"
+msgstr ""
+
+#: visual-composer/map.php:1560
+msgid "Outlined & Top Icon"
+msgstr ""
+
+#: visual-composer/map.php:1561
+msgid "Boxed & Top Icon"
+msgstr ""
+
+#: visual-composer/map.php:1562
+msgid "Boxed & Top Icon Style 2"
+msgstr ""
+
+#: visual-composer/map.php:1567
+msgid "Alignment"
+msgstr ""
+
+#: visual-composer/map.php:1582
+msgid "Icon Bottom Margin"
+msgstr ""
+
+#: visual-composer/map.php:1591
+msgid "Container Left Padding"
+msgstr ""
+
+#: visual-composer/map.php:1600
+msgid "Container Right Padding"
+msgstr ""
+
+#: visual-composer/map.php:1618
+msgid "Background Image"
+msgstr ""
+
+#: visual-composer/map.php:1621
+msgid "Select image from media library."
+msgstr ""
+
+#: visual-composer/map.php:1629
+msgid "Background Image Style"
+msgstr ""
+
+#: visual-composer/map.php:1633
+msgid "Stretched"
+msgstr ""
+
+#: visual-composer/map.php:1634
+msgid "Fixed"
+msgstr ""
+
+#: visual-composer/map.php:1635
+msgid "Repeat"
+msgstr ""
+
+#: visual-composer/map.php:1644
+msgid "Border Color"
+msgstr ""
+
+#: visual-composer/map.php:1653
+msgid "Padding"
+msgstr ""
+
+#: visual-composer/map.php:1673 visual-composer/map.php:1676
+#: visual-composer/map.php:1690 visual-composer/map.php:1696
+#: visual-composer/map.php:1702 visual-composer/map.php:1708
+#: visual-composer/map.php:1715 visual-composer/map.php:1721
+#: visual-composer/map.php:1734
+msgid "Heading"
+msgstr ""
+
+#: visual-composer/map.php:1680
+msgid "Heading Type"
+msgstr ""
+
+#: visual-composer/map.php:1694
+msgid "Heading Font Color"
+msgstr ""
+
+#: visual-composer/map.php:1700
+msgid "Heading Font Size"
+msgstr ""
+
+#: visual-composer/map.php:1706
+msgid "Heading Font Weight"
+msgstr ""
+
+#: visual-composer/map.php:1713
+msgid "Heading Letter Spacing"
+msgstr ""
+
+#: visual-composer/map.php:1719
+msgid "Heading Text Transform"
+msgstr ""
+
+#: visual-composer/map.php:1725
+msgid "Capitalize"
+msgstr ""
+
+#: visual-composer/map.php:1726
+msgid "Uppercase"
+msgstr ""
+
+#: visual-composer/map.php:1727
+msgid "Lowercase"
+msgstr ""
+
+#: visual-composer/map.php:1732
+msgid "Heading Bottom Margin"
+msgstr ""
+
+#: visual-composer/map.php:1744
+msgid ""
+"Don't forget to change this dummy text in your page editor for this lovely "
+"icon box."
+msgstr ""
+
+#: visual-composer/map.php:1749
+msgid "Content Font Size"
+msgstr ""
+
+#: visual-composer/map.php:1755
+msgid "Content Font Color"
+msgstr ""
+
+#: visual-composer/map.php:1769
+msgid "URL Target"
+msgstr ""
+
+#: visual-composer/map.php:1774
+msgid "Local"
+msgstr ""
+
+#: visual-composer/map.php:1780
+msgid "URL Rel"
+msgstr ""
+
+#: visual-composer/map.php:1792
+msgid "Bottom Margin"
+msgstr ""
+
+#: visual-composer/map.php:1794
+msgid "Margin"
+msgstr ""
+
+#: visual-composer/map.php:1802
+msgid "Calluna Image with content"
+msgstr ""
+
+#: visual-composer/map.php:1804
+msgid "Create images with content"
+msgstr ""
+
+#: visual-composer/map.php:1809
+msgid "Choose Image"
+msgstr ""
+
+#: visual-composer/map.php:1814
+msgid "Image & Content Layout"
+msgstr ""
+
+#: visual-composer/map.php:1831
+msgid "Don't forget to change this dummy text in your page editor."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Calluna Shortcodes"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://demo.themetwins.com/calluna"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Shortcodes for the Calluna WP theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Themetwins"
+msgstr ""

@@ -1,0 +1,38 @@
+@font-face {
+  font-family: 'Awebooking';
+  src:
+    url('../fonts/apbf.ttf?7wxjk4') format('truetype'),
+    url('../fonts/apbf.woff?7wxjk4') format('woff'),
+    url('../fonts/apbf.svg?7wxjk4#apbf') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.apbf {
+  font-family: 'Awebooking' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+
+  line-height: 1;
+  display: inline-block;
+
+  /* Better Font Rendering */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.apbf-calendar:before {
+  content: "\f133";
+}
+.apbf-select:before {
+  content: "\e902";
+}
+.apbf-next:before {
+  content: "\e900";
+}
+.apbf-prev:before {
+  content: "\e901";
+}
